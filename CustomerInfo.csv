@@ -1,0 +1,101 @@
+CustomerID,CustomerName,Location,SignupDate
+1000,Michael Brown,Los Angeles,2022-01-02
+1001,Michael Brown,Los Angeles,2022-01-09
+1002,Michael Brown,Chicago,2022-01-16
+1003,David Wilson,New York,2022-01-23
+1004,Jane Smith,Houston,2022-01-30
+1005,Michael Brown,Chicago,2022-02-06
+1006,Jane Smith,Chicago,2022-02-13
+1007,Michael Brown,Phoenix,2022-02-20
+1008,Jane Smith,Houston,2022-02-27
+1009,Jane Smith,New York,2022-03-06
+1010,Michael Brown,Chicago,2022-03-13
+1011,John Doe,Los Angeles,2022-03-20
+1012,Michael Brown,Phoenix,2022-03-27
+1013,John Doe,Los Angeles,2022-04-03
+1014,Emily Davis,Los Angeles,2022-04-10
+1015,Michael Brown,Chicago,2022-04-17
+1016,Jane Smith,Los Angeles,2022-04-24
+1017,Emily Davis,Chicago,2022-05-01
+1018,Jane Smith,New York,2022-05-08
+1019,John Doe,Los Angeles,2022-05-15
+1020,John Doe,Phoenix,2022-05-22
+1021,Jane Smith,New York,2022-05-29
+1022,Jane Smith,Phoenix,2022-06-05
+1023,John Doe,New York,2022-06-12
+1024,Jane Smith,Phoenix,2022-06-19
+1025,Michael Brown,Phoenix,2022-06-26
+1026,Jane Smith,New York,2022-07-03
+1027,John Doe,Phoenix,2022-07-10
+1028,Jane Smith,Houston,2022-07-17
+1029,Michael Brown,Houston,2022-07-24
+1030,Jane Smith,Phoenix,2022-07-31
+1031,Jane Smith,New York,2022-08-07
+1032,David Wilson,Phoenix,2022-08-14
+1033,David Wilson,Phoenix,2022-08-21
+1034,Michael Brown,Chicago,2022-08-28
+1035,Michael Brown,New York,2022-09-04
+1036,Michael Brown,Phoenix,2022-09-11
+1037,Jane Smith,Chicago,2022-09-18
+1038,Emily Davis,Phoenix,2022-09-25
+1039,John Doe,Los Angeles,2022-10-02
+1040,Emily Davis,New York,2022-10-09
+1041,Michael Brown,Chicago,2022-10-16
+1042,David Wilson,Chicago,2022-10-23
+1043,John Doe,New York,2022-10-30
+1044,Michael Brown,Los Angeles,2022-11-06
+1045,John Doe,Phoenix,2022-11-13
+1046,John Doe,Chicago,2022-11-20
+1047,Emily Davis,Chicago,2022-11-27
+1048,Emily Davis,Houston,2022-12-04
+1049,David Wilson,Chicago,2022-12-11
+1050,Michael Brown,New York,2022-12-18
+1051,David Wilson,Houston,2022-12-25
+1052,Emily Davis,Chicago,2023-01-01
+1053,Jane Smith,New York,2023-01-08
+1054,Michael Brown,New York,2023-01-15
+1055,John Doe,Houston,2023-01-22
+1056,Emily Davis,Los Angeles,2023-01-29
+1057,Michael Brown,New York,2023-02-05
+1058,Michael Brown,Chicago,2023-02-12
+1059,John Doe,Los Angeles,2023-02-19
+1060,David Wilson,Chicago,2023-02-26
+1061,Jane Smith,New York,2023-03-05
+1062,John Doe,Phoenix,2023-03-12
+1063,Jane Smith,Los Angeles,2023-03-19
+1064,Jane Smith,Phoenix,2023-03-26
+1065,Emily Davis,New York,2023-04-02
+1066,Emily Davis,Los Angeles,2023-04-09
+1067,Emily Davis,Phoenix,2023-04-16
+1068,Emily Davis,Los Angeles,2023-04-23
+1069,David Wilson,Chicago,2023-04-30
+1070,Jane Smith,Phoenix,2023-05-07
+1071,John Doe,New York,2023-05-14
+1072,Jane Smith,Chicago,2023-05-21
+1073,Jane Smith,Los Angeles,2023-05-28
+1074,Michael Brown,Chicago,2023-06-04
+1075,David Wilson,Chicago,2023-06-11
+1076,Michael Brown,Houston,2023-06-18
+1077,John Doe,New York,2023-06-25
+1078,David Wilson,Los Angeles,2023-07-02
+1079,Jane Smith,New York,2023-07-09
+1080,Michael Brown,Houston,2023-07-16
+1081,John Doe,Chicago,2023-07-23
+1082,John Doe,New York,2023-07-30
+1083,John Doe,Chicago,2023-08-06
+1084,Michael Brown,Los Angeles,2023-08-13
+1085,John Doe,Phoenix,2023-08-20
+1086,Jane Smith,New York,2023-08-27
+1087,David Wilson,New York,2023-09-03
+1088,Emily Davis,Chicago,2023-09-10
+1089,John Doe,New York,2023-09-17
+1090,John Doe,Houston,2023-09-24
+1091,David Wilson,Los Angeles,2023-10-01
+1092,David Wilson,Chicago,2023-10-08
+1093,Michael Brown,Phoenix,2023-10-15
+1094,John Doe,Chicago,2023-10-22
+1095,Michael Brown,Los Angeles,2023-10-29
+1096,Jane Smith,New York,2023-11-05
+1097,John Doe,Chicago,2023-11-12
+1098,David Wilson,Chicago,2023-11-19
+1099,Jane Smith,Phoenix,2023-11-26

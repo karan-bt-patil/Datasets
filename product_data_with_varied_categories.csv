@@ -1,0 +1,1001 @@
+Product ID,Product Name,Date of Purchase,Order Status,Store Location,Quantity,Price,Category
+1001,Xbox Series X,2023-01-01,Shipped,"Greeneshire, VI",52,432.09,Electronics
+1002,Nintendo Switch,2023-01-02,Shipped,"Port Isaacberg, FL",37,77.28,Electronics
+1003,Dell XPS 13,2023-01-03,Cancelled,"South Rebeccaburgh, MH",29,476.67,Electronics
+1004,Instant Pot,2023-01-04,Cancelled,"East Stevenborough, LA",67,171.12,Home Appliances
+1005,Bose Headphones,2023-01-05,Pending,"Lake Deborah, NH",15,334.53,Electronics
+1006,Sony PlayStation 5,2023-01-06,Delivered,"East Barbaraland, NY",47,378.39,Electronics
+1007,Nikon D3500,2023-01-07,Cancelled,"Port Melanieton, SD",46,407.85,Electronics
+1008,Running Shoes,2023-01-08,Cancelled,"Stewartberg, MS",52,473.42,Sports & Outdoors
+1009,Skincare Cream,2023-01-09,Pending,"Christopherstad, KY",19,163.33,Health & Beauty
+1010,Apple Watch,2023-01-10,Pending,"South Jessica, MA",77,430.67,Electronics
+1011,Sony PlayStation 5,2023-01-11,Cancelled,"Martinhaven, PW",21,74.53,Electronics
+1012,Fresh Fruits,2023-01-12,Delivered,"Port Jessica, IN",64,355.47,Groceries
+1013,Keurig Coffee Maker,2023-01-13,Cancelled,"North Brandiberg, OH",37,373.57,Home Appliances
+1014,Fiction Book,2023-01-14,Pending,"Carolynmouth, AZ",27,342.08,Books
+1015,Nintendo Switch,2023-01-15,Pending,"South Brianna, NE",55,133.63,Electronics
+1016,Dyson Vacuum,2023-01-16,Cancelled,"Port Maryfort, IN",29,437.79,Home Appliances
+1017,Fresh Fruits,2023-01-17,Delivered,"Billyborough, SD",20,92.74,Groceries
+1018,Keurig Coffee Maker,2023-01-18,Cancelled,"Lake Wayne, NE",25,36.28,Home Appliances
+1019,Fiction Book,2023-01-19,Cancelled,"South Danieltown, HI",70,361.56,Books
+1020,Instant Pot,2023-01-20,Pending,"Lake Shannonhaven, FM",63,242.98,Home Appliances
+1021,Men's T-shirt,2023-01-21,Delivered,"Edwardsside, MN",36,426.06,Clothing & Accessories
+1022,Dell XPS 13,2023-01-22,Shipped,"East Cheryl, SC",2,197.86,Electronics
+1023,Amazon Echo,2023-01-23,Delivered,"Lake Jasmine, PA",22,92.46,Electronics
+1024,Keurig Coffee Maker,2023-01-24,Cancelled,"Christopherhaven, WY",96,419.86,Home Appliances
+1025,Board Game,2023-01-25,Cancelled,"Port Louis, WY",16,278.97,Toys & Games
+1026,Men's T-shirt,2023-01-26,Cancelled,"East Michellestad, OK",18,102.71,Clothing & Accessories
+1027,Sofa Set,2023-01-27,Delivered,"Justinland, VA",69,362.99,Furniture
+1028,Men's T-shirt,2023-01-28,Pending,"North Alexandrahaven, SD",54,260.45,Clothing & Accessories
+1029,Sofa Set,2023-01-29,Cancelled,"Brianstad, AS",30,306.11,Furniture
+1030,Google Nest,2023-01-30,Cancelled,"Lake Holly, OR",45,235.84,Electronics
+1031,Roomba Robot Vacuum,2023-01-31,Delivered,"West Michael, CO",19,416.07,Home Appliances
+1032,Keurig Coffee Maker,2023-02-01,Shipped,"Mcclainshire, UT",87,416.49,Home Appliances
+1033,Fiction Book,2023-02-02,Shipped,"Lopezchester, MD",34,357.6,Books
+1034,Running Shoes,2023-02-03,Pending,"Alexandershire, MI",13,61.65,Sports & Outdoors
+1035,Kindle Paperwhite,2023-02-04,Pending,"East Danielleburgh, RI",43,421.04,Electronics
+1036,Kindle Paperwhite,2023-02-05,Cancelled,"Patriciatown, MT",62,338.8,Electronics
+1037,Fiction Book,2023-02-06,Delivered,"Jaredshire, NM",93,351.54,Books
+1038,Samsung Galaxy S21,2023-02-07,Cancelled,"North Donaldfurt, MA",22,187.86,Electronics
+1039,Bose Headphones,2023-02-08,Pending,"Port Gregorymouth, GA",52,440.85,Electronics
+1040,Roomba Robot Vacuum,2023-02-09,Delivered,"Jessicaview, HI",52,365.43,Home Appliances
+1041,Fitbit Charge,2023-02-10,Delivered,"Jeremymouth, MN",36,65.17,Electronics
+1042,Kindle Paperwhite,2023-02-11,Pending,"East Daniel, ID",73,209.81,Electronics
+1043,Men's T-shirt,2023-02-12,Shipped,"West Chelsea, MH",19,444.33,Clothing & Accessories
+1044,Fresh Fruits,2023-02-13,Shipped,"Port Davidberg, NV",38,33.13,Groceries
+1045,Roomba Robot Vacuum,2023-02-14,Delivered,"Courtneyside, AZ",70,481.09,Home Appliances
+1046,Dell XPS 13,2023-02-15,Cancelled,"Marytown, ME",79,342.79,Electronics
+1047,Keurig Coffee Maker,2023-02-16,Shipped,"Lake Oscar, CT",57,319.37,Home Appliances
+1048,Oculus Quest 2,2023-02-17,Cancelled,"Port Anthony, KY",20,142.57,Electronics
+1049,Instant Pot,2023-02-18,Shipped,"West Sharon, IL",9,131.91,Home Appliances
+1050,Fresh Fruits,2023-02-19,Shipped,"Jonathanborough, AZ",32,471.61,Groceries
+1051,Fiction Book,2023-02-20,Cancelled,"East Adrianport, GA",4,156.15,Books
+1052,Sofa Set,2023-02-21,Pending,"Josephville, NV",50,390.0,Furniture
+1053,Sony PlayStation 5,2023-02-22,Shipped,"Craigville, AZ",82,202.63,Electronics
+1054,Xbox Series X,2023-02-23,Shipped,"Cannonland, AK",5,78.23,Electronics
+1055,Roomba Robot Vacuum,2023-02-24,Cancelled,"Stoneside, FM",20,15.25,Home Appliances
+1056,iPhone 13,2023-02-25,Pending,"Davidborough, NE",87,276.69,Electronics
+1057,Fresh Fruits,2023-02-26,Shipped,"East William, MP",75,488.13,Groceries
+1058,Nintendo Switch,2023-02-27,Shipped,"Murraychester, OH",37,190.88,Electronics
+1059,Dell XPS 13,2023-02-28,Pending,"Bushchester, OR",22,185.02,Electronics
+1060,Roomba Robot Vacuum,2023-03-01,Shipped,"New Billyburgh, PA",58,178.6,Home Appliances
+1061,Bose Headphones,2023-03-02,Pending,"Port Eileen, GA",68,265.07,Electronics
+1062,Board Game,2023-03-03,Pending,"Lake Tristanton, MO",93,225.93,Toys & Games
+1063,Samsung Galaxy S21,2023-03-04,Cancelled,"North Michellestad, PR",44,441.16,Electronics
+1064,Google Nest,2023-03-05,Delivered,"Scottburgh, OR",34,257.71,Electronics
+1065,Instant Pot,2023-03-06,Pending,"Peterside, NC",77,258.8,Home Appliances
+1066,Amazon Echo,2023-03-07,Cancelled,"East Danielle, MH",42,77.8,Electronics
+1067,Fiction Book,2023-03-08,Delivered,"Allisonstad, NH",9,491.54,Books
+1068,Xbox Series X,2023-03-09,Shipped,"Cannonmouth, KS",95,132.49,Electronics
+1069,iPhone 13,2023-03-10,Delivered,"North Brenda, CA",7,45.95,Electronics
+1070,Instant Pot,2023-03-11,Pending,"Mitchellchester, KY",68,334.94,Home Appliances
+1071,Running Shoes,2023-03-12,Pending,"Stephaniechester, AS",19,301.73,Sports & Outdoors
+1072,Skincare Cream,2023-03-13,Pending,"New Kimberlyville, NH",94,213.42,Health & Beauty
+1073,Amazon Echo,2023-03-14,Pending,"South Edwin, MP",31,216.87,Electronics
+1074,Fresh Fruits,2023-03-15,Pending,"Lake Charles, DC",35,394.68,Groceries
+1075,Roomba Robot Vacuum,2023-03-16,Cancelled,"Dorothyville, WI",57,105.9,Home Appliances
+1076,Samsung Galaxy S21,2023-03-17,Pending,"West Johnberg, OR",85,411.92,Electronics
+1077,Fiction Book,2023-03-18,Cancelled,"Jacobshire, VT",61,327.89,Books
+1078,Bose Headphones,2023-03-19,Shipped,"Davidburgh, FL",31,215.3,Electronics
+1079,Bose Headphones,2023-03-20,Pending,"North Christopher, WV",83,234.43,Electronics
+1080,Nikon D3500,2023-03-21,Pending,"North James, NE",95,135.76,Electronics
+1081,Xbox Series X,2023-03-22,Delivered,"South Robertfurt, LA",53,378.54,Electronics
+1082,Xbox Series X,2023-03-23,Shipped,"Ericberg, WV",32,261.31,Electronics
+1083,Oculus Quest 2,2023-03-24,Pending,"Diazberg, AL",66,167.22,Electronics
+1084,Oculus Quest 2,2023-03-25,Pending,"Lake Michelle, CA",59,302.06,Electronics
+1085,Sofa Set,2023-03-26,Shipped,"West Kathleen, VT",10,497.91,Furniture
+1086,MacBook Pro,2023-03-27,Cancelled,"Barbaraview, WA",2,223.28,Electronics
+1087,Roomba Robot Vacuum,2023-03-28,Pending,"New Philip, NC",66,461.14,Home Appliances
+1088,Roomba Robot Vacuum,2023-03-29,Delivered,"Michellefurt, NH",60,179.06,Home Appliances
+1089,GoPro Hero 9,2023-03-30,Pending,"Lake Kaylahaven, NJ",88,36.82,Electronics
+1090,Keurig Coffee Maker,2023-03-31,Delivered,"New Williamborough, NY",17,110.08,Home Appliances
+1091,Instant Pot,2023-04-01,Delivered,"East Katherine, SD",96,215.16,Home Appliances
+1092,Nikon D3500,2023-04-02,Pending,"Miguelport, GA",16,117.62,Electronics
+1093,Running Shoes,2023-04-03,Pending,"Port Angelville, MD",16,10.11,Sports & Outdoors
+1094,iPhone 13,2023-04-04,Delivered,"Carterland, CA",46,458.35,Electronics
+1095,Roomba Robot Vacuum,2023-04-05,Shipped,"Lake Jamesville, PA",39,423.5,Home Appliances
+1096,MacBook Pro,2023-04-06,Shipped,"New Diana, ME",31,373.72,Electronics
+1097,Skincare Cream,2023-04-07,Pending,"Toddside, AS",88,92.23,Health & Beauty
+1098,Instant Pot,2023-04-08,Cancelled,"Jamesshire, OR",1,68.98,Home Appliances
+1099,Dell XPS 13,2023-04-09,Shipped,"North Haleytown, FL",11,43.13,Electronics
+1100,Dell XPS 13,2023-04-10,Pending,"Mataberg, VI",85,364.77,Electronics
+1101,Apple Watch,2023-04-11,Shipped,"Anthonyport, MD",4,465.12,Electronics
+1102,Roomba Robot Vacuum,2023-04-12,Cancelled,"Jonathanville, AK",71,220.96,Home Appliances
+1103,Nintendo Switch,2023-04-13,Pending,"Julieport, MI",26,68.38,Electronics
+1104,Fitbit Charge,2023-04-14,Cancelled,"Robertchester, LA",50,261.07,Electronics
+1105,Oculus Quest 2,2023-04-15,Pending,"Georgechester, CO",12,180.93,Electronics
+1106,MacBook Pro,2023-04-16,Cancelled,"South Ryanshire, TX",95,193.66,Electronics
+1107,Google Nest,2023-04-17,Shipped,"Shepherdport, AL",81,314.45,Electronics
+1108,Dyson Vacuum,2023-04-18,Shipped,"North Stephanie, OH",97,362.17,Home Appliances
+1109,Skincare Cream,2023-04-19,Cancelled,"East Pamela, SC",75,64.2,Health & Beauty
+1110,iPhone 13,2023-04-20,Cancelled,"Port Cherylchester, MH",92,27.44,Electronics
+1111,Dyson Vacuum,2023-04-21,Cancelled,"North Natalie, RI",96,497.22,Home Appliances
+1112,Samsung Galaxy S21,2023-04-22,Pending,"Davisbury, HI",65,124.04,Electronics
+1113,Running Shoes,2023-04-23,Shipped,"Lake Gregory, ME",47,36.38,Sports & Outdoors
+1114,Dell XPS 13,2023-04-24,Pending,"West Debbiemouth, MH",92,103.04,Electronics
+1115,Board Game,2023-04-25,Shipped,"Morrisberg, GU",53,29.09,Toys & Games
+1116,Fiction Book,2023-04-26,Delivered,"Lake Ryan, OH",71,201.99,Books
+1117,Nintendo Switch,2023-04-27,Pending,"Lake Antonio, NM",2,403.18,Electronics
+1118,Xbox Series X,2023-04-28,Shipped,"Leahbury, NM",24,177.21,Electronics
+1119,Fresh Fruits,2023-04-29,Shipped,"Sandybury, AK",4,227.65,Groceries
+1120,iPhone 13,2023-04-30,Pending,"New Olivia, SC",19,341.04,Electronics
+1121,Roomba Robot Vacuum,2023-05-01,Pending,"North Michael, MS",26,259.36,Home Appliances
+1122,Google Nest,2023-05-02,Shipped,"Maryhaven, NC",75,432.11,Electronics
+1123,Nintendo Switch,2023-05-03,Pending,"Danielshire, UT",40,434.36,Electronics
+1124,Sofa Set,2023-05-04,Cancelled,"East Robert, NM",50,14.86,Furniture
+1125,iPhone 13,2023-05-05,Pending,"Jenkinsside, AL",43,391.24,Electronics
+1126,Sony PlayStation 5,2023-05-06,Pending,"Jeremyside, CO",75,235.76,Electronics
+1127,Fiction Book,2023-05-07,Pending,"Raymondbury, KS",67,494.53,Books
+1128,Keurig Coffee Maker,2023-05-08,Shipped,"East Bettyton, MN",12,246.78,Home Appliances
+1129,Xbox Series X,2023-05-09,Cancelled,"New Jonathanmouth, AZ",67,493.58,Electronics
+1130,Google Nest,2023-05-10,Delivered,"Lake Ryanmouth, WI",27,379.74,Electronics
+1131,Nikon D3500,2023-05-11,Delivered,"New Kylemouth, VA",54,131.82,Electronics
+1132,Keurig Coffee Maker,2023-05-12,Cancelled,"North Robert, LA",66,273.81,Home Appliances
+1133,MacBook Pro,2023-05-13,Cancelled,"Port Brandi, MA",49,496.15,Electronics
+1134,Nintendo Switch,2023-05-14,Cancelled,"Hannahland, IL",16,430.19,Electronics
+1135,GoPro Hero 9,2023-05-15,Shipped,"Robertfort, KY",2,57.71,Electronics
+1136,Keurig Coffee Maker,2023-05-16,Delivered,"Thomaston, AS",60,356.12,Home Appliances
+1137,Fiction Book,2023-05-17,Cancelled,"West Samanthachester, PW",54,179.33,Books
+1138,Fitbit Charge,2023-05-18,Shipped,"Erikashire, CT",30,13.42,Electronics
+1139,Kindle Paperwhite,2023-05-19,Delivered,"East Stephanie, MA",84,207.71,Electronics
+1140,Fresh Fruits,2023-05-20,Pending,"Seanfurt, IA",38,125.03,Groceries
+1141,Oculus Quest 2,2023-05-21,Shipped,"New Debraville, AS",28,411.25,Electronics
+1142,Dell XPS 13,2023-05-22,Delivered,"Russellton, CT",25,175.29,Electronics
+1143,GoPro Hero 9,2023-05-23,Shipped,"Johnsonborough, VA",96,415.49,Electronics
+1144,Running Shoes,2023-05-24,Delivered,"North Amandaport, TN",10,10.29,Sports & Outdoors
+1145,Samsung Galaxy S21,2023-05-25,Delivered,"Lake Dorothy, VA",60,160.83,Electronics
+1146,Board Game,2023-05-26,Pending,"New Hannahfurt, ID",42,128.17,Toys & Games
+1147,Men's T-shirt,2023-05-27,Shipped,"Derekview, IL",40,124.45,Clothing & Accessories
+1148,Nintendo Switch,2023-05-28,Cancelled,"Robertport, CO",97,43.41,Electronics
+1149,Fresh Fruits,2023-05-29,Pending,"Lake Clayton, AZ",77,101.69,Groceries
+1150,Sony PlayStation 5,2023-05-30,Pending,"New Kevinshire, PW",42,282.22,Electronics
+1151,Google Nest,2023-05-31,Delivered,"Lisachester, NY",47,152.77,Electronics
+1152,Amazon Echo,2023-06-01,Cancelled,"Port Michael, NE",37,214.52,Electronics
+1153,Dyson Vacuum,2023-06-02,Shipped,"West Jose, ID",80,194.66,Home Appliances
+1154,Board Game,2023-06-03,Cancelled,"New Luis, DE",22,439.19,Toys & Games
+1155,Running Shoes,2023-06-04,Cancelled,"South Lindsey, VA",57,453.6,Sports & Outdoors
+1156,MacBook Pro,2023-06-05,Cancelled,"Wardton, DE",84,251.55,Electronics
+1157,Apple Watch,2023-06-06,Cancelled,"New Saraville, CO",27,171.78,Electronics
+1158,Keurig Coffee Maker,2023-06-07,Cancelled,"Alexishaven, ME",41,62.33,Home Appliances
+1159,Running Shoes,2023-06-08,Delivered,"Lake Thomas, ME",80,477.17,Sports & Outdoors
+1160,Nintendo Switch,2023-06-09,Delivered,"Lake Troy, RI",34,39.51,Electronics
+1161,Nintendo Switch,2023-06-10,Pending,"Williamsbury, MT",32,155.85,Electronics
+1162,Apple Watch,2023-06-11,Delivered,"Kathleenburgh, NV",90,156.05,Electronics
+1163,Oculus Quest 2,2023-06-12,Pending,"Reneeborough, FL",89,167.0,Electronics
+1164,Keurig Coffee Maker,2023-06-13,Pending,"Blanchardview, WI",66,90.5,Home Appliances
+1165,Google Nest,2023-06-14,Shipped,"Maryborough, SD",12,393.75,Electronics
+1166,Car Floor Mats,2023-06-15,Cancelled,"North Stephanie, MI",40,70.02,Automotive
+1167,iPhone 13,2023-06-16,Delivered,"New Jocelyn, NM",73,321.1,Electronics
+1168,Roomba Robot Vacuum,2023-06-17,Shipped,"Kathrynhaven, HI",76,70.68,Home Appliances
+1169,GoPro Hero 9,2023-06-18,Delivered,"Jenniferburgh, UT",90,44.56,Electronics
+1170,Sofa Set,2023-06-19,Pending,"New Annamouth, MI",73,455.62,Furniture
+1171,Fitbit Charge,2023-06-20,Delivered,"Velazquezmouth, PR",10,103.16,Electronics
+1172,Sony PlayStation 5,2023-06-21,Cancelled,"Michaelmouth, SD",96,412.41,Electronics
+1173,Fiction Book,2023-06-22,Pending,"East Deanna, AS",98,276.87,Books
+1174,GoPro Hero 9,2023-06-23,Pending,"Greenbury, MO",48,48.15,Electronics
+1175,Roomba Robot Vacuum,2023-06-24,Shipped,"Jenniferview, PR",20,478.17,Home Appliances
+1176,Xbox Series X,2023-06-25,Cancelled,"Barbaraberg, GA",39,131.01,Electronics
+1177,iPhone 13,2023-06-26,Pending,"Dustinstad, NH",60,431.23,Electronics
+1178,Sony PlayStation 5,2023-06-27,Cancelled,"Aliciamouth, MD",66,92.72,Electronics
+1179,Fresh Fruits,2023-06-28,Delivered,"Chelseachester, MS",65,428.43,Groceries
+1180,Car Floor Mats,2023-06-29,Cancelled,"Obrienfurt, FL",51,16.48,Automotive
+1181,Dyson Vacuum,2023-06-30,Pending,"East Lauriestad, AR",36,260.77,Home Appliances
+1182,Sony PlayStation 5,2023-07-01,Shipped,"Justinberg, KY",24,387.03,Electronics
+1183,Men's T-shirt,2023-07-02,Pending,"Colemanstad, MS",27,468.05,Clothing & Accessories
+1184,Board Game,2023-07-03,Cancelled,"Hudsonchester, IL",2,455.51,Toys & Games
+1185,Fiction Book,2023-07-04,Cancelled,"Lake Davidville, KY",31,411.62,Books
+1186,iPhone 13,2023-07-05,Pending,"New Pennytown, IA",57,445.21,Electronics
+1187,Apple Watch,2023-07-06,Cancelled,"Jamieport, NE",78,107.62,Electronics
+1188,Keurig Coffee Maker,2023-07-07,Delivered,"Loriport, MS",66,149.25,Home Appliances
+1189,Bose Headphones,2023-07-08,Pending,"Ianfort, HI",29,151.59,Electronics
+1190,Nintendo Switch,2023-07-09,Shipped,"Danielborough, IL",15,194.76,Electronics
+1191,Men's T-shirt,2023-07-10,Pending,"Mcdanielshire, AK",12,202.73,Clothing & Accessories
+1192,Sony PlayStation 5,2023-07-11,Delivered,"Lake Loriland, OH",28,276.83,Electronics
+1193,Fiction Book,2023-07-12,Delivered,"New Victor, OR",84,88.34,Books
+1194,Samsung Galaxy S21,2023-07-13,Delivered,"Lake Michael, GA",24,348.71,Electronics
+1195,Instant Pot,2023-07-14,Delivered,"East Jonathan, ME",21,92.11,Home Appliances
+1196,Amazon Echo,2023-07-15,Delivered,"Jordanside, WV",10,162.05,Electronics
+1197,Dell XPS 13,2023-07-16,Shipped,"Webbburgh, OK",78,256.64,Electronics
+1198,iPhone 13,2023-07-17,Cancelled,"Port Matthew, WI",18,400.26,Electronics
+1199,Nikon D3500,2023-07-18,Delivered,"New Patricia, NV",88,372.34,Electronics
+1200,Oculus Quest 2,2023-07-19,Delivered,"Hernandezville, KS",14,326.31,Electronics
+1201,Men's T-shirt,2023-07-20,Pending,"New Andrea, MA",34,86.33,Clothing & Accessories
+1202,Amazon Echo,2023-07-21,Shipped,"East Beverly, SC",58,278.05,Electronics
+1203,Instant Pot,2023-07-22,Shipped,"North Yolandastad, WV",76,52.85,Home Appliances
+1204,Running Shoes,2023-07-23,Cancelled,"Port Victoriachester, IN",22,194.91,Sports & Outdoors
+1205,Dyson Vacuum,2023-07-24,Shipped,"North Krystal, PR",70,212.62,Home Appliances
+1206,Running Shoes,2023-07-25,Pending,"East Lauren, MP",36,29.51,Sports & Outdoors
+1207,Nintendo Switch,2023-07-26,Pending,"West Patriciamouth, CA",45,144.25,Electronics
+1208,Men's T-shirt,2023-07-27,Cancelled,"West James, LA",36,478.27,Clothing & Accessories
+1209,Board Game,2023-07-28,Pending,"Shaunport, MN",22,477.28,Toys & Games
+1210,Oculus Quest 2,2023-07-29,Delivered,"East Zacharyview, LA",78,182.64,Electronics
+1211,Board Game,2023-07-30,Delivered,"North Amandaburgh, ID",80,31.12,Toys & Games
+1212,Apple Watch,2023-07-31,Pending,"West Christopherville, AS",61,97.76,Electronics
+1213,Kindle Paperwhite,2023-08-01,Cancelled,"Hopkinsbury, WV",56,202.19,Electronics
+1214,Bose Headphones,2023-08-02,Shipped,"Lake Ian, ND",89,474.41,Electronics
+1215,Fresh Fruits,2023-08-03,Cancelled,"Williamport, ND",96,79.19,Groceries
+1216,Google Nest,2023-08-04,Shipped,"North Anthony, NY",33,384.12,Electronics
+1217,Skincare Cream,2023-08-05,Pending,"Lake Brianport, LA",45,63.25,Health & Beauty
+1218,Kindle Paperwhite,2023-08-06,Pending,"Wareview, SD",36,490.82,Electronics
+1219,Roomba Robot Vacuum,2023-08-07,Delivered,"New Dana, AL",20,196.99,Home Appliances
+1220,Samsung Galaxy S21,2023-08-08,Shipped,"Derekview, OH",18,389.86,Electronics
+1221,Xbox Series X,2023-08-09,Cancelled,"Ritterstad, MO",38,177.87,Electronics
+1222,Skincare Cream,2023-08-10,Pending,"West Samanthamouth, AK",67,317.56,Health & Beauty
+1223,Sony PlayStation 5,2023-08-11,Cancelled,"Williambury, FL",23,104.09,Electronics
+1224,Car Floor Mats,2023-08-12,Delivered,"Jenniferport, LA",96,81.55,Automotive
+1225,Bose Headphones,2023-08-13,Shipped,"Port Louis, PA",16,469.65,Electronics
+1226,Sony PlayStation 5,2023-08-14,Shipped,"South Kathleen, PA",59,459.65,Electronics
+1227,Apple Watch,2023-08-15,Pending,"Brownburgh, NY",69,444.86,Electronics
+1228,Skincare Cream,2023-08-16,Shipped,"Rileychester, MP",68,316.46,Health & Beauty
+1229,Oculus Quest 2,2023-08-17,Pending,"Dianestad, AR",21,406.05,Electronics
+1230,Bose Headphones,2023-08-18,Delivered,"Port Jenniferbury, GA",78,43.83,Electronics
+1231,Roomba Robot Vacuum,2023-08-19,Shipped,"Solismouth, KY",95,174.05,Home Appliances
+1232,Fiction Book,2023-08-20,Pending,"Lake Amy, NH",78,163.71,Books
+1233,Roomba Robot Vacuum,2023-08-21,Cancelled,"New Mallory, NY",70,321.47,Home Appliances
+1234,GoPro Hero 9,2023-08-22,Pending,"Kyleshire, GA",12,184.42,Electronics
+1235,Amazon Echo,2023-08-23,Shipped,"Colemanmouth, PW",16,82.77,Electronics
+1236,Fiction Book,2023-08-24,Delivered,"Kelleyland, FM",81,302.27,Books
+1237,MacBook Pro,2023-08-25,Shipped,"East Yvettefurt, MH",87,409.05,Electronics
+1238,Kindle Paperwhite,2023-08-26,Shipped,"Lake Shellyhaven, AZ",14,197.24,Electronics
+1239,Samsung Galaxy S21,2023-08-27,Pending,"North Scott, GA",61,74.81,Electronics
+1240,Fresh Fruits,2023-08-28,Cancelled,"East Kyle, FM",71,106.38,Groceries
+1241,MacBook Pro,2023-08-29,Shipped,"Bennetttown, DC",46,126.37,Electronics
+1242,Keurig Coffee Maker,2023-08-30,Cancelled,"Jonesmouth, LA",32,156.95,Home Appliances
+1243,Samsung Galaxy S21,2023-08-31,Pending,"North Christina, CO",15,324.97,Electronics
+1244,Car Floor Mats,2023-09-01,Cancelled,"New Brian, MT",44,304.46,Automotive
+1245,Board Game,2023-09-02,Pending,"Avilaport, VT",17,351.08,Toys & Games
+1246,Kindle Paperwhite,2023-09-03,Delivered,"South Jeffreyhaven, AK",41,187.63,Electronics
+1247,Xbox Series X,2023-09-04,Cancelled,"Weaverhaven, NV",54,413.76,Electronics
+1248,Men's T-shirt,2023-09-05,Cancelled,"Jimenezmouth, NE",44,110.0,Clothing & Accessories
+1249,Skincare Cream,2023-09-06,Delivered,"Nguyenchester, VT",98,239.83,Health & Beauty
+1250,Fitbit Charge,2023-09-07,Cancelled,"Schultzview, VT",5,402.46,Electronics
+1251,Running Shoes,2023-09-08,Delivered,"Jacksonton, MT",27,98.28,Sports & Outdoors
+1252,Amazon Echo,2023-09-09,Shipped,"Stephaniebury, VA",87,63.83,Electronics
+1253,Fiction Book,2023-09-10,Pending,"New Benjaminmouth, UT",78,443.01,Books
+1254,Instant Pot,2023-09-11,Delivered,"Kaylabury, UT",79,178.04,Home Appliances
+1255,Xbox Series X,2023-09-12,Cancelled,"New Maria, WV",43,345.1,Electronics
+1256,Oculus Quest 2,2023-09-13,Delivered,"Jamesside, NJ",97,22.42,Electronics
+1257,Fiction Book,2023-09-14,Cancelled,"New Carolhaven, MA",31,348.12,Books
+1258,Bose Headphones,2023-09-15,Shipped,"Dorisbury, NH",99,164.89,Electronics
+1259,Men's T-shirt,2023-09-16,Delivered,"New Michelefort, OK",17,37.31,Clothing & Accessories
+1260,Oculus Quest 2,2023-09-17,Shipped,"West Robert, ME",92,308.81,Electronics
+1261,GoPro Hero 9,2023-09-18,Pending,"Port Lisa, KY",83,127.99,Electronics
+1262,Nintendo Switch,2023-09-19,Cancelled,"West Yolanda, FM",54,199.54,Electronics
+1263,Oculus Quest 2,2023-09-20,Cancelled,"Timothystad, DC",62,49.48,Electronics
+1264,MacBook Pro,2023-09-21,Shipped,"Port Nicolestad, FM",87,82.11,Electronics
+1265,Instant Pot,2023-09-22,Pending,"New Ryanview, MO",32,156.01,Home Appliances
+1266,Samsung Galaxy S21,2023-09-23,Delivered,"East Jamesbury, AR",40,53.98,Electronics
+1267,Sofa Set,2023-09-24,Delivered,"North Brittanybury, OK",13,456.3,Furniture
+1268,Samsung Galaxy S21,2023-09-25,Cancelled,"Kemphaven, NY",84,12.96,Electronics
+1269,Men's T-shirt,2023-09-26,Shipped,"Michellemouth, WY",35,247.09,Clothing & Accessories
+1270,MacBook Pro,2023-09-27,Shipped,"Anthonyburgh, VA",5,70.39,Electronics
+1271,Xbox Series X,2023-09-28,Delivered,"Mcgeefurt, DE",73,160.76,Electronics
+1272,Instant Pot,2023-09-29,Pending,"North Brettview, AL",29,463.77,Home Appliances
+1273,Fiction Book,2023-09-30,Pending,"New Jacobport, KS",70,89.23,Books
+1274,Kindle Paperwhite,2023-10-01,Delivered,"South Janet, PR",25,483.26,Electronics
+1275,Bose Headphones,2023-10-02,Delivered,"Angelamouth, ID",95,110.84,Electronics
+1276,iPhone 13,2023-10-03,Shipped,"West Crystal, MT",22,373.37,Electronics
+1277,Keurig Coffee Maker,2023-10-04,Pending,"South Jamesville, ND",66,277.87,Home Appliances
+1278,Xbox Series X,2023-10-05,Delivered,"North Jennifer, MI",45,443.39,Electronics
+1279,Bose Headphones,2023-10-06,Delivered,"Port Zacharyside, UT",69,281.46,Electronics
+1280,Fiction Book,2023-10-07,Cancelled,"New Reginald, HI",91,271.93,Books
+1281,Dell XPS 13,2023-10-08,Delivered,"Robertstad, DE",89,105.77,Electronics
+1282,Fiction Book,2023-10-09,Delivered,"North Virginiaberg, HI",72,91.45,Books
+1283,Car Floor Mats,2023-10-10,Pending,"Richardside, ME",1,459.08,Automotive
+1284,Samsung Galaxy S21,2023-10-11,Shipped,"Shannonhaven, IA",84,170.64,Electronics
+1285,Dell XPS 13,2023-10-12,Pending,"Matthewsport, AZ",44,192.32,Electronics
+1286,iPhone 13,2023-10-13,Shipped,"Hawkinsbury, HI",87,382.31,Electronics
+1287,Nintendo Switch,2023-10-14,Cancelled,"Juliefort, ME",96,176.02,Electronics
+1288,Skincare Cream,2023-10-15,Delivered,"Melvinmouth, AK",75,476.51,Health & Beauty
+1289,Fresh Fruits,2023-10-16,Cancelled,"East Lauraville, GU",39,371.58,Groceries
+1290,Kindle Paperwhite,2023-10-17,Shipped,"South Rebeccaborough, RI",54,302.74,Electronics
+1291,Sofa Set,2023-10-18,Pending,"Susanview, DC",88,441.64,Furniture
+1292,Instant Pot,2023-10-19,Pending,"Williamtown, IN",75,34.31,Home Appliances
+1293,Fiction Book,2023-10-20,Cancelled,"Jesusborough, OH",29,135.96,Books
+1294,Men's T-shirt,2023-10-21,Shipped,"Port Melissa, PR",54,237.87,Clothing & Accessories
+1295,Nintendo Switch,2023-10-22,Cancelled,"Port Suzanne, MN",90,121.22,Electronics
+1296,Keurig Coffee Maker,2023-10-23,Cancelled,"Annetteton, MN",16,374.51,Home Appliances
+1297,Sofa Set,2023-10-24,Delivered,"Scotttown, OK",99,460.41,Furniture
+1298,Fiction Book,2023-10-25,Cancelled,"Port James, AZ",20,217.65,Books
+1299,Board Game,2023-10-26,Delivered,"Port Julia, MD",46,177.64,Toys & Games
+1300,Men's T-shirt,2023-10-27,Delivered,"Jasonland, WA",67,481.16,Clothing & Accessories
+1301,Dell XPS 13,2023-10-28,Pending,"Port Amyfurt, TN",65,227.98,Electronics
+1302,Samsung Galaxy S21,2023-10-29,Delivered,"North Christopherville, MP",58,249.63,Electronics
+1303,Fresh Fruits,2023-10-30,Delivered,"Sanchezside, NC",53,182.31,Groceries
+1304,Nikon D3500,2023-10-31,Pending,"Lake Lorichester, AL",1,455.68,Electronics
+1305,Car Floor Mats,2023-11-01,Cancelled,"Prestontown, WA",81,288.79,Automotive
+1306,iPhone 13,2023-11-02,Shipped,"New Aaron, GA",66,383.47,Electronics
+1307,Roomba Robot Vacuum,2023-11-03,Shipped,"West Pamela, OH",29,407.79,Home Appliances
+1308,Nikon D3500,2023-11-04,Shipped,"Downsside, RI",84,177.51,Electronics
+1309,Dell XPS 13,2023-11-05,Cancelled,"Ericaside, AS",70,222.51,Electronics
+1310,Amazon Echo,2023-11-06,Delivered,"Lake Peterton, UT",8,425.75,Electronics
+1311,Roomba Robot Vacuum,2023-11-07,Shipped,"Esparzaport, NE",29,188.0,Home Appliances
+1312,Bose Headphones,2023-11-08,Cancelled,"Port Michellefort, NY",51,399.03,Electronics
+1313,Dell XPS 13,2023-11-09,Delivered,"Johnberg, WA",33,471.09,Electronics
+1314,Nintendo Switch,2023-11-10,Pending,"Mariachester, NC",3,315.37,Electronics
+1315,iPhone 13,2023-11-11,Shipped,"Clarkchester, LA",60,373.4,Electronics
+1316,Kindle Paperwhite,2023-11-12,Delivered,"Jonesville, IL",35,404.5,Electronics
+1317,Dell XPS 13,2023-11-13,Shipped,"East Christina, IL",69,424.07,Electronics
+1318,Bose Headphones,2023-11-14,Shipped,"Lake Adrianview, AL",91,203.58,Electronics
+1319,Nikon D3500,2023-11-15,Shipped,"Bowenmouth, VI",76,35.12,Electronics
+1320,Dyson Vacuum,2023-11-16,Delivered,"South Jacobton, VT",84,206.92,Home Appliances
+1321,Kindle Paperwhite,2023-11-17,Cancelled,"East Laurenland, SC",20,340.14,Electronics
+1322,Xbox Series X,2023-11-18,Delivered,"South Jennifer, GA",73,230.67,Electronics
+1323,Keurig Coffee Maker,2023-11-19,Shipped,"Cowanside, DC",39,376.99,Home Appliances
+1324,Xbox Series X,2023-11-20,Delivered,"West Henry, TX",4,184.92,Electronics
+1325,Roomba Robot Vacuum,2023-11-21,Pending,"North Michaelbury, NE",19,321.02,Home Appliances
+1326,Kindle Paperwhite,2023-11-22,Cancelled,"Gatesmouth, NE",91,101.35,Electronics
+1327,Apple Watch,2023-11-23,Delivered,"Grantshire, FL",45,377.19,Electronics
+1328,Fiction Book,2023-11-24,Pending,"Port Karinafurt, NE",43,277.39,Books
+1329,Men's T-shirt,2023-11-25,Cancelled,"Lindseyport, NH",13,109.99,Clothing & Accessories
+1330,Apple Watch,2023-11-26,Pending,"Andersonchester, MP",13,153.04,Electronics
+1331,MacBook Pro,2023-11-27,Cancelled,"East Calvin, PA",60,376.82,Electronics
+1332,Oculus Quest 2,2023-11-28,Delivered,"Harrisonview, WV",57,246.47,Electronics
+1333,Fiction Book,2023-11-29,Pending,"New Christian, PA",86,115.86,Books
+1334,Sofa Set,2023-11-30,Shipped,"Onealchester, WA",92,483.96,Furniture
+1335,Fresh Fruits,2023-12-01,Pending,"Adamsport, ID",52,360.41,Groceries
+1336,Car Floor Mats,2023-12-02,Cancelled,"Dyermouth, OK",53,479.0,Automotive
+1337,Instant Pot,2023-12-03,Delivered,"Lewisburgh, KY",86,219.28,Home Appliances
+1338,Instant Pot,2023-12-04,Cancelled,"Nicolemouth, DE",43,242.8,Home Appliances
+1339,Dell XPS 13,2023-12-05,Pending,"Esparzaville, VA",83,450.0,Electronics
+1340,Fiction Book,2023-12-06,Pending,"West Christopherberg, MH",72,267.27,Books
+1341,Bose Headphones,2023-12-07,Shipped,"East Lucas, HI",72,356.57,Electronics
+1342,Fiction Book,2023-12-08,Delivered,"Mariaview, ID",42,133.56,Books
+1343,Skincare Cream,2023-12-09,Delivered,"East Vickiebury, PA",90,228.9,Health & Beauty
+1344,Nintendo Switch,2023-12-10,Pending,"West Victor, WI",26,70.49,Electronics
+1345,Board Game,2023-12-11,Delivered,"Briannashire, PW",23,110.93,Toys & Games
+1346,Car Floor Mats,2023-12-12,Shipped,"Port Daniel, DC",43,10.46,Automotive
+1347,Roomba Robot Vacuum,2023-12-13,Cancelled,"South Aliciachester, SC",77,29.24,Home Appliances
+1348,Fitbit Charge,2023-12-14,Delivered,"Waltershire, TN",28,488.87,Electronics
+1349,Fresh Fruits,2023-12-15,Pending,"Feliciaton, OH",9,128.75,Groceries
+1350,Bose Headphones,2023-12-16,Cancelled,"Smithtown, IL",20,335.02,Electronics
+1351,Kindle Paperwhite,2023-12-17,Cancelled,"Matthewbury, FL",56,421.16,Electronics
+1352,Apple Watch,2023-12-18,Shipped,"Port James, WV",83,279.82,Electronics
+1353,Oculus Quest 2,2023-12-19,Pending,"Joneschester, IA",39,85.04,Electronics
+1354,Nikon D3500,2023-12-20,Delivered,"South Jaime, NY",51,366.78,Electronics
+1355,Google Nest,2023-12-21,Pending,"Hollyfurt, MN",12,304.12,Electronics
+1356,Amazon Echo,2023-12-22,Cancelled,"New Samuel, WY",79,368.31,Electronics
+1357,Roomba Robot Vacuum,2023-12-23,Pending,"New John, VT",95,387.18,Home Appliances
+1358,Sofa Set,2023-12-24,Delivered,"East Joseside, MS",55,487.95,Furniture
+1359,Running Shoes,2023-12-25,Delivered,"Port Nathan, SD",78,291.05,Sports & Outdoors
+1360,Instant Pot,2023-12-26,Shipped,"Taylormouth, MS",11,177.4,Home Appliances
+1361,Oculus Quest 2,2023-12-27,Delivered,"Hallside, UT",26,327.75,Electronics
+1362,Instant Pot,2023-12-28,Delivered,"Port Beverly, AL",42,43.54,Home Appliances
+1363,iPhone 13,2023-12-29,Pending,"Matthewshaven, ME",27,449.72,Electronics
+1364,Fresh Fruits,2023-12-30,Pending,"Lorrainefurt, ND",11,68.5,Groceries
+1365,Dyson Vacuum,2023-12-31,Cancelled,"Burnshaven, TX",38,170.64,Home Appliances
+1366,Sony PlayStation 5,2024-01-01,Shipped,"North Erinberg, NV",98,409.72,Electronics
+1367,Fitbit Charge,2024-01-02,Pending,"North Stephanie, CO",43,302.68,Electronics
+1368,Keurig Coffee Maker,2024-01-03,Delivered,"Danielsburgh, RI",19,202.88,Home Appliances
+1369,Samsung Galaxy S21,2024-01-04,Cancelled,"Lake Barryside, OK",64,241.98,Electronics
+1370,Google Nest,2024-01-05,Pending,"West Melissa, CA",6,428.73,Electronics
+1371,Fitbit Charge,2024-01-06,Shipped,"East Matthewberg, OK",46,176.6,Electronics
+1372,Apple Watch,2024-01-07,Shipped,"North Brandonshire, MH",42,436.13,Electronics
+1373,MacBook Pro,2024-01-08,Cancelled,"North Darlene, MS",92,53.19,Electronics
+1374,Skincare Cream,2024-01-09,Cancelled,"Reginaldchester, ID",65,390.63,Health & Beauty
+1375,iPhone 13,2024-01-10,Cancelled,"New Amanda, DC",99,425.3,Electronics
+1376,Fitbit Charge,2024-01-11,Cancelled,"Harveyberg, ID",72,99.09,Electronics
+1377,Keurig Coffee Maker,2024-01-12,Cancelled,"New Tyler, MS",59,220.87,Home Appliances
+1378,Apple Watch,2024-01-13,Delivered,"Leeport, NY",52,91.09,Electronics
+1379,Keurig Coffee Maker,2024-01-14,Delivered,"West Isaac, RI",47,356.24,Home Appliances
+1380,Running Shoes,2024-01-15,Pending,"Elijahtown, NC",7,272.32,Sports & Outdoors
+1381,Kindle Paperwhite,2024-01-16,Shipped,"Smithfort, MS",11,321.31,Electronics
+1382,Apple Watch,2024-01-17,Delivered,"East Brandy, NM",61,106.28,Electronics
+1383,Xbox Series X,2024-01-18,Delivered,"New Lisa, NJ",68,113.76,Electronics
+1384,Nintendo Switch,2024-01-19,Delivered,"South Joseph, DE",25,30.33,Electronics
+1385,Dell XPS 13,2024-01-20,Pending,"South Darrenport, VA",12,167.81,Electronics
+1386,Fiction Book,2024-01-21,Cancelled,"Scottside, NY",26,284.27,Books
+1387,Nikon D3500,2024-01-22,Pending,"New Elizabeth, RI",12,430.39,Electronics
+1388,Board Game,2024-01-23,Shipped,"West Amanda, TX",43,336.79,Toys & Games
+1389,Dyson Vacuum,2024-01-24,Shipped,"Keithbury, IL",51,223.34,Home Appliances
+1390,MacBook Pro,2024-01-25,Shipped,"Sabrinastad, LA",37,477.03,Electronics
+1391,Kindle Paperwhite,2024-01-26,Shipped,"New Janiceburgh, CA",46,362.43,Electronics
+1392,Xbox Series X,2024-01-27,Delivered,"South Rickyhaven, OR",53,465.78,Electronics
+1393,iPhone 13,2024-01-28,Delivered,"Lake Amyborough, NV",88,268.52,Electronics
+1394,Running Shoes,2024-01-29,Pending,"South Brianbury, MD",80,136.86,Sports & Outdoors
+1395,Board Game,2024-01-30,Cancelled,"Sharonburgh, MH",13,35.89,Toys & Games
+1396,Fiction Book,2024-01-31,Shipped,"Spencemouth, AZ",89,365.78,Books
+1397,Dyson Vacuum,2024-02-01,Pending,"New Wesleyburgh, NV",54,69.44,Home Appliances
+1398,Google Nest,2024-02-02,Delivered,"Davismouth, IL",57,158.36,Electronics
+1399,Nintendo Switch,2024-02-03,Delivered,"Timothyside, OK",4,270.91,Electronics
+1400,Dyson Vacuum,2024-02-04,Cancelled,"Hardinside, AR",75,286.56,Home Appliances
+1401,Kindle Paperwhite,2024-02-05,Cancelled,"East Veronicastad, VT",96,304.29,Electronics
+1402,Roomba Robot Vacuum,2024-02-06,Cancelled,"West Jaychester, DC",49,91.47,Home Appliances
+1403,Bose Headphones,2024-02-07,Pending,"Port Ashleeport, NC",7,196.07,Electronics
+1404,Xbox Series X,2024-02-08,Delivered,"South Raymondberg, MS",11,312.43,Electronics
+1405,Fitbit Charge,2024-02-09,Delivered,"Harristown, PW",92,485.21,Electronics
+1406,Fresh Fruits,2024-02-10,Cancelled,"Grayfort, OH",54,366.54,Groceries
+1407,Amazon Echo,2024-02-11,Shipped,"Benderfort, DC",87,462.08,Electronics
+1408,Roomba Robot Vacuum,2024-02-12,Cancelled,"South Brianchester, GA",45,383.48,Home Appliances
+1409,Car Floor Mats,2024-02-13,Pending,"Warrenville, PW",23,299.94,Automotive
+1410,Car Floor Mats,2024-02-14,Cancelled,"Brianview, SC",28,104.09,Automotive
+1411,iPhone 13,2024-02-15,Cancelled,"Grantton, AL",57,336.68,Electronics
+1412,Men's T-shirt,2024-02-16,Pending,"North Charles, FL",26,315.46,Clothing & Accessories
+1413,Sony PlayStation 5,2024-02-17,Cancelled,"Jonesville, AS",25,305.21,Electronics
+1414,Bose Headphones,2024-02-18,Delivered,"Lake Anneburgh, RI",54,250.0,Electronics
+1415,Apple Watch,2024-02-19,Shipped,"Wilsonborough, VI",29,269.04,Electronics
+1416,Board Game,2024-02-20,Cancelled,"Lopezville, VT",83,173.88,Toys & Games
+1417,Fiction Book,2024-02-21,Pending,"Frederickfurt, IL",97,264.46,Books
+1418,Sofa Set,2024-02-22,Shipped,"Cannontown, PW",36,106.8,Furniture
+1419,Samsung Galaxy S21,2024-02-23,Pending,"Brownfurt, IL",14,404.54,Electronics
+1420,Skincare Cream,2024-02-24,Shipped,"West Kenneth, TN",78,101.03,Health & Beauty
+1421,Fitbit Charge,2024-02-25,Shipped,"South David, PA",35,51.63,Electronics
+1422,Fiction Book,2024-02-26,Cancelled,"Danielview, WV",30,223.76,Books
+1423,Car Floor Mats,2024-02-27,Delivered,"Collinsfort, NC",92,332.57,Automotive
+1424,Xbox Series X,2024-02-28,Cancelled,"South Charles, ND",17,224.48,Electronics
+1425,Skincare Cream,2024-02-29,Pending,"Lake Katrina, UT",67,145.61,Health & Beauty
+1426,Google Nest,2024-03-01,Pending,"Davisside, MS",80,283.5,Electronics
+1427,Dell XPS 13,2024-03-02,Shipped,"East Lindsay, VT",30,180.03,Electronics
+1428,Apple Watch,2024-03-03,Shipped,"Jimport, WY",93,467.11,Electronics
+1429,Car Floor Mats,2024-03-04,Delivered,"Heiditon, VA",45,462.1,Automotive
+1430,Fitbit Charge,2024-03-05,Cancelled,"Jonesstad, FM",79,256.16,Electronics
+1431,Sony PlayStation 5,2024-03-06,Pending,"Campbellfurt, CT",89,170.66,Electronics
+1432,Instant Pot,2024-03-07,Shipped,"New Kimberly, AR",51,371.19,Home Appliances
+1433,Car Floor Mats,2024-03-08,Delivered,"Port Vincent, AS",47,27.99,Automotive
+1434,Apple Watch,2024-03-09,Pending,"Richardmouth, WY",53,242.64,Electronics
+1435,Samsung Galaxy S21,2024-03-10,Shipped,"Jonesside, MA",64,174.8,Electronics
+1436,Men's T-shirt,2024-03-11,Pending,"Melissatown, CT",38,461.06,Clothing & Accessories
+1437,Fitbit Charge,2024-03-12,Delivered,"Lake Chloe, NE",64,15.88,Electronics
+1438,Skincare Cream,2024-03-13,Delivered,"Lancetown, OR",87,280.88,Health & Beauty
+1439,Fresh Fruits,2024-03-14,Pending,"Deannaview, OK",89,372.93,Groceries
+1440,Nikon D3500,2024-03-15,Cancelled,"Monicabury, LA",7,247.66,Electronics
+1441,Dell XPS 13,2024-03-16,Pending,"Brownport, MH",22,51.85,Electronics
+1442,Men's T-shirt,2024-03-17,Shipped,"Michellebury, WA",81,486.51,Clothing & Accessories
+1443,Amazon Echo,2024-03-18,Cancelled,"Burkeberg, UT",82,263.83,Electronics
+1444,Fitbit Charge,2024-03-19,Shipped,"Kimhaven, VT",41,310.95,Electronics
+1445,Men's T-shirt,2024-03-20,Pending,"North Ana, NC",74,125.94,Clothing & Accessories
+1446,Board Game,2024-03-21,Cancelled,"Russellburgh, VI",10,246.91,Toys & Games
+1447,Dell XPS 13,2024-03-22,Shipped,"Wesleyland, GA",57,220.28,Electronics
+1448,Car Floor Mats,2024-03-23,Pending,"Wongland, MS",7,46.7,Automotive
+1449,Instant Pot,2024-03-24,Pending,"Angelaview, FL",50,62.02,Home Appliances
+1450,iPhone 13,2024-03-25,Cancelled,"West Veronica, WI",91,420.36,Electronics
+1451,Running Shoes,2024-03-26,Pending,"West Georgeland, WV",52,127.51,Sports & Outdoors
+1452,MacBook Pro,2024-03-27,Delivered,"Thompsonside, ID",33,105.53,Electronics
+1453,Dyson Vacuum,2024-03-28,Shipped,"Brianfurt, IA",1,257.41,Home Appliances
+1454,Xbox Series X,2024-03-29,Shipped,"Meyershaven, TX",53,386.69,Electronics
+1455,Apple Watch,2024-03-30,Pending,"Kellyside, SC",60,40.35,Electronics
+1456,Fresh Fruits,2024-03-31,Pending,"East Michaelbury, AK",34,292.64,Groceries
+1457,iPhone 13,2024-04-01,Delivered,"Johnfort, MI",4,68.41,Electronics
+1458,Xbox Series X,2024-04-02,Cancelled,"East Michellehaven, MS",17,27.87,Electronics
+1459,Xbox Series X,2024-04-03,Pending,"Leebury, NM",4,35.84,Electronics
+1460,Sofa Set,2024-04-04,Pending,"Port Stephen, MN",43,418.74,Furniture
+1461,Keurig Coffee Maker,2024-04-05,Pending,"Arielland, HI",90,67.81,Home Appliances
+1462,Sony PlayStation 5,2024-04-06,Pending,"South Robert, MS",4,32.12,Electronics
+1463,Roomba Robot Vacuum,2024-04-07,Shipped,"Toddtown, LA",1,224.57,Home Appliances
+1464,Kindle Paperwhite,2024-04-08,Pending,"East Noah, AS",71,423.56,Electronics
+1465,Car Floor Mats,2024-04-09,Shipped,"South Stephenmouth, DC",94,138.58,Automotive
+1466,Sofa Set,2024-04-10,Pending,"South Angelaville, MP",50,216.64,Furniture
+1467,Apple Watch,2024-04-11,Cancelled,"North Cynthiahaven, FM",73,29.56,Electronics
+1468,Amazon Echo,2024-04-12,Delivered,"Singletonborough, WI",61,230.05,Electronics
+1469,MacBook Pro,2024-04-13,Cancelled,"Port Amberberg, PW",35,293.03,Electronics
+1470,Nikon D3500,2024-04-14,Pending,"Mandyville, ND",8,289.74,Electronics
+1471,Instant Pot,2024-04-15,Pending,"Heatherton, MO",24,172.89,Home Appliances
+1472,Oculus Quest 2,2024-04-16,Pending,"Port Jacob, VT",83,164.61,Electronics
+1473,Nintendo Switch,2024-04-17,Cancelled,"Gonzalestown, GU",36,62.25,Electronics
+1474,MacBook Pro,2024-04-18,Pending,"North Ianhaven, WV",50,189.73,Electronics
+1475,Dell XPS 13,2024-04-19,Cancelled,"East Jacquelinefort, ID",43,58.75,Electronics
+1476,Sony PlayStation 5,2024-04-20,Shipped,"Lake Kevinton, ME",27,385.63,Electronics
+1477,iPhone 13,2024-04-21,Delivered,"Lake Anna, MH",32,483.47,Electronics
+1478,Dell XPS 13,2024-04-22,Delivered,"Dunnport, PR",78,485.34,Electronics
+1479,GoPro Hero 9,2024-04-23,Cancelled,"East Laura, TX",18,433.88,Electronics
+1480,Car Floor Mats,2024-04-24,Shipped,"South Ryan, PW",28,304.39,Automotive
+1481,Fiction Book,2024-04-25,Cancelled,"South Debra, MH",29,353.42,Books
+1482,Board Game,2024-04-26,Shipped,"East Tiffanymouth, WV",16,149.75,Toys & Games
+1483,Kindle Paperwhite,2024-04-27,Pending,"New Lauriebury, WV",99,319.08,Electronics
+1484,Running Shoes,2024-04-28,Shipped,"West Richard, MS",47,233.27,Sports & Outdoors
+1485,Fresh Fruits,2024-04-29,Shipped,"Noahmouth, GU",59,246.19,Groceries
+1486,Sofa Set,2024-04-30,Shipped,"Kathleenburgh, WY",31,381.31,Furniture
+1487,Skincare Cream,2024-05-01,Delivered,"Kimbury, LA",4,148.14,Health & Beauty
+1488,Oculus Quest 2,2024-05-02,Shipped,"New Wanda, CA",37,165.84,Electronics
+1489,Board Game,2024-05-03,Pending,"Crawfordmouth, MD",17,463.07,Toys & Games
+1490,Fresh Fruits,2024-05-04,Pending,"New Annashire, SD",39,37.55,Groceries
+1491,Nikon D3500,2024-05-05,Pending,"Port Alicia, MT",48,247.96,Electronics
+1492,Running Shoes,2024-05-06,Shipped,"North Haley, MT",46,457.27,Sports & Outdoors
+1493,Dyson Vacuum,2024-05-07,Cancelled,"Cruzport, MP",90,309.08,Home Appliances
+1494,Running Shoes,2024-05-08,Cancelled,"West Matthewville, TX",48,277.74,Sports & Outdoors
+1495,Sony PlayStation 5,2024-05-09,Pending,"North Eric, MA",39,132.37,Electronics
+1496,Dell XPS 13,2024-05-10,Delivered,"Davidland, AL",4,178.2,Electronics
+1497,Dyson Vacuum,2024-05-11,Cancelled,"South Melissa, OR",30,427.5,Home Appliances
+1498,Kindle Paperwhite,2024-05-12,Shipped,"West Jamie, OR",30,284.02,Electronics
+1499,Roomba Robot Vacuum,2024-05-13,Cancelled,"Port Christy, GU",22,262.22,Home Appliances
+1500,Kindle Paperwhite,2024-05-14,Pending,"West Stephanie, MA",75,58.79,Electronics
+1501,Skincare Cream,2024-05-15,Delivered,"Lake Traceyton, NY",66,17.85,Health & Beauty
+1502,Amazon Echo,2024-05-16,Cancelled,"Kellyton, MN",12,482.21,Electronics
+1503,Keurig Coffee Maker,2024-05-17,Cancelled,"Brennanburgh, MH",94,194.72,Home Appliances
+1504,iPhone 13,2024-05-18,Pending,"South Marieberg, OR",36,305.57,Electronics
+1505,Roomba Robot Vacuum,2024-05-19,Delivered,"East Reginaville, AZ",18,49.06,Home Appliances
+1506,Sofa Set,2024-05-20,Delivered,"Silvamouth, MI",90,344.73,Furniture
+1507,Bose Headphones,2024-05-21,Pending,"New Tracy, HI",53,466.96,Electronics
+1508,Xbox Series X,2024-05-22,Shipped,"Port Jessicaton, CA",71,292.08,Electronics
+1509,Nintendo Switch,2024-05-23,Cancelled,"Derrickborough, NM",1,71.8,Electronics
+1510,Nikon D3500,2024-05-24,Shipped,"South Richardton, NE",58,295.04,Electronics
+1511,MacBook Pro,2024-05-25,Cancelled,"Davidmouth, FL",90,385.51,Electronics
+1512,Amazon Echo,2024-05-26,Cancelled,"Samanthaland, MH",87,209.14,Electronics
+1513,Men's T-shirt,2024-05-27,Shipped,"Greenemouth, CT",90,441.12,Clothing & Accessories
+1514,Bose Headphones,2024-05-28,Pending,"South Anita, HI",6,327.85,Electronics
+1515,Men's T-shirt,2024-05-29,Pending,"Howardville, MO",70,450.63,Clothing & Accessories
+1516,Sony PlayStation 5,2024-05-30,Cancelled,"Port Bryanhaven, AL",44,315.52,Electronics
+1517,Kindle Paperwhite,2024-05-31,Pending,"New Jeremy, AZ",72,74.33,Electronics
+1518,Running Shoes,2024-06-01,Cancelled,"South Jeffreyhaven, ID",24,161.75,Sports & Outdoors
+1519,Roomba Robot Vacuum,2024-06-02,Pending,"Lake Jessicaberg, SD",86,108.88,Home Appliances
+1520,GoPro Hero 9,2024-06-03,Cancelled,"Port Craigfort, WV",19,455.32,Electronics
+1521,Running Shoes,2024-06-04,Pending,"Mortonburgh, WI",18,382.6,Sports & Outdoors
+1522,Keurig Coffee Maker,2024-06-05,Delivered,"Smithtown, NV",95,341.44,Home Appliances
+1523,MacBook Pro,2024-06-06,Shipped,"North Kimberlyview, GU",30,157.47,Electronics
+1524,Fresh Fruits,2024-06-07,Delivered,"Kingberg, AZ",42,100.18,Groceries
+1525,Men's T-shirt,2024-06-08,Shipped,"North Austin, NY",33,380.66,Clothing & Accessories
+1526,Bose Headphones,2024-06-09,Shipped,"West Josephburgh, WA",74,242.34,Electronics
+1527,Instant Pot,2024-06-10,Cancelled,"Stevenmouth, IN",12,120.64,Home Appliances
+1528,Sony PlayStation 5,2024-06-11,Shipped,"Gwendolynshire, MO",94,312.14,Electronics
+1529,Running Shoes,2024-06-12,Delivered,"Kathymouth, IA",27,29.76,Sports & Outdoors
+1530,Nikon D3500,2024-06-13,Delivered,"North Andrea, WA",39,169.82,Electronics
+1531,Dyson Vacuum,2024-06-14,Pending,"Guerraberg, NC",9,239.59,Home Appliances
+1532,Oculus Quest 2,2024-06-15,Delivered,"Christopherborough, AK",21,82.5,Electronics
+1533,Instant Pot,2024-06-16,Pending,"North Gavintown, VA",76,492.48,Home Appliances
+1534,Keurig Coffee Maker,2024-06-17,Shipped,"Nicolasside, AL",29,112.46,Home Appliances
+1535,Running Shoes,2024-06-18,Delivered,"Kayleeside, OR",33,73.87,Sports & Outdoors
+1536,Nikon D3500,2024-06-19,Shipped,"East Natasha, OK",62,109.73,Electronics
+1537,Roomba Robot Vacuum,2024-06-20,Delivered,"New Billy, AS",15,386.84,Home Appliances
+1538,Running Shoes,2024-06-21,Delivered,"West Brettchester, MH",2,218.5,Sports & Outdoors
+1539,Google Nest,2024-06-22,Pending,"Angelaburgh, ND",52,287.05,Electronics
+1540,Sofa Set,2024-06-23,Shipped,"Lake Reneeside, HI",44,20.29,Furniture
+1541,Samsung Galaxy S21,2024-06-24,Delivered,"East Tyler, HI",54,26.87,Electronics
+1542,Sony PlayStation 5,2024-06-25,Cancelled,"Andersonmouth, GU",18,228.45,Electronics
+1543,Xbox Series X,2024-06-26,Shipped,"Jamesmouth, ME",3,410.16,Electronics
+1544,GoPro Hero 9,2024-06-27,Shipped,"East Jonathan, KY",7,443.77,Electronics
+1545,Apple Watch,2024-06-28,Shipped,"Espinozaberg, VT",43,52.49,Electronics
+1546,Men's T-shirt,2024-06-29,Pending,"Farmerchester, MI",82,273.8,Clothing & Accessories
+1547,Men's T-shirt,2024-06-30,Cancelled,"Paulfurt, MN",38,457.48,Clothing & Accessories
+1548,iPhone 13,2024-07-01,Shipped,"Lake Douglas, HI",37,200.11,Electronics
+1549,Roomba Robot Vacuum,2024-07-02,Delivered,"Lawsonmouth, SD",58,416.49,Home Appliances
+1550,Fitbit Charge,2024-07-03,Delivered,"Grahamhaven, MI",33,75.51,Electronics
+1551,Kindle Paperwhite,2024-07-04,Pending,"East Katelyn, MT",59,468.34,Electronics
+1552,Nintendo Switch,2024-07-05,Delivered,"Port Kurtmouth, SD",95,378.2,Electronics
+1553,Dyson Vacuum,2024-07-06,Shipped,"Melissaview, FM",11,471.25,Home Appliances
+1554,Skincare Cream,2024-07-07,Delivered,"East Jamesland, ME",68,341.54,Health & Beauty
+1555,Kindle Paperwhite,2024-07-08,Shipped,"Nathanview, OR",82,188.07,Electronics
+1556,Instant Pot,2024-07-09,Delivered,"North Ian, WY",68,469.71,Home Appliances
+1557,Car Floor Mats,2024-07-10,Cancelled,"Sellersside, UT",98,145.03,Automotive
+1558,Nintendo Switch,2024-07-11,Pending,"Nicholasfurt, MN",93,172.76,Electronics
+1559,Dell XPS 13,2024-07-12,Pending,"Lake Angelaview, ND",88,353.4,Electronics
+1560,Samsung Galaxy S21,2024-07-13,Cancelled,"East Annafurt, MD",22,385.0,Electronics
+1561,Bose Headphones,2024-07-14,Cancelled,"West Markborough, ME",66,465.41,Electronics
+1562,Kindle Paperwhite,2024-07-15,Pending,"Smithtown, AK",44,110.35,Electronics
+1563,Car Floor Mats,2024-07-16,Cancelled,"Whitebury, CO",6,401.02,Automotive
+1564,Fitbit Charge,2024-07-17,Shipped,"Bradyport, ME",42,371.89,Electronics
+1565,Dyson Vacuum,2024-07-18,Delivered,"South Mirandaton, GA",25,41.26,Home Appliances
+1566,Amazon Echo,2024-07-19,Pending,"East Angelaberg, OK",57,199.74,Electronics
+1567,Running Shoes,2024-07-20,Cancelled,"Lake Joeborough, SD",85,148.56,Sports & Outdoors
+1568,Instant Pot,2024-07-21,Shipped,"Allenfurt, WY",55,159.2,Home Appliances
+1569,Men's T-shirt,2024-07-22,Pending,"Danielview, AZ",16,491.64,Clothing & Accessories
+1570,Nintendo Switch,2024-07-23,Cancelled,"Port Katrina, PR",95,324.96,Electronics
+1571,Men's T-shirt,2024-07-24,Pending,"Lake Elizabeth, MD",14,361.66,Clothing & Accessories
+1572,Instant Pot,2024-07-25,Cancelled,"East Jessicachester, NH",39,488.54,Home Appliances
+1573,Car Floor Mats,2024-07-26,Pending,"South Jennifer, AK",28,194.83,Automotive
+1574,Board Game,2024-07-27,Shipped,"Port Bailey, TX",96,402.9,Toys & Games
+1575,Google Nest,2024-07-28,Shipped,"Shannonhaven, IN",92,222.92,Electronics
+1576,Fitbit Charge,2024-07-29,Delivered,"East Carol, ME",51,436.07,Electronics
+1577,Bose Headphones,2024-07-30,Pending,"New David, HI",49,98.52,Electronics
+1578,Instant Pot,2024-07-31,Delivered,"Donaldview, UT",9,474.37,Home Appliances
+1579,iPhone 13,2024-08-01,Pending,"New Joan, NJ",58,117.2,Electronics
+1580,iPhone 13,2024-08-02,Cancelled,"North Allison, UT",45,169.85,Electronics
+1581,Nintendo Switch,2024-08-03,Cancelled,"West Samuelmouth, AZ",22,380.53,Electronics
+1582,MacBook Pro,2024-08-04,Delivered,"East Rachelfurt, PA",32,202.94,Electronics
+1583,Kindle Paperwhite,2024-08-05,Pending,"Davidville, VI",69,308.02,Electronics
+1584,Google Nest,2024-08-06,Delivered,"Jeremiahfurt, ID",87,227.84,Electronics
+1585,Instant Pot,2024-08-07,Shipped,"Brendahaven, OK",69,373.76,Home Appliances
+1586,Kindle Paperwhite,2024-08-08,Delivered,"West David, WI",42,121.88,Electronics
+1587,iPhone 13,2024-08-09,Delivered,"Smithfort, WV",53,38.64,Electronics
+1588,Apple Watch,2024-08-10,Cancelled,"Lake Joseph, HI",96,156.97,Electronics
+1589,Samsung Galaxy S21,2024-08-11,Delivered,"Marksborough, DC",59,242.41,Electronics
+1590,Nintendo Switch,2024-08-12,Pending,"Lake Donnaport, KY",74,92.33,Electronics
+1591,Nikon D3500,2024-08-13,Cancelled,"North Jessicatown, VT",39,183.85,Electronics
+1592,Men's T-shirt,2024-08-14,Delivered,"Port Gregoryfurt, LA",15,205.99,Clothing & Accessories
+1593,iPhone 13,2024-08-15,Shipped,"New Sherryborough, HI",71,38.12,Electronics
+1594,Samsung Galaxy S21,2024-08-16,Delivered,"North Jerryfurt, MT",29,295.82,Electronics
+1595,Keurig Coffee Maker,2024-08-17,Delivered,"Lake Alexandria, IL",3,443.33,Home Appliances
+1596,Instant Pot,2024-08-18,Delivered,"Port Stacey, MN",83,84.35,Home Appliances
+1597,Nikon D3500,2024-08-19,Cancelled,"Brandichester, WI",10,302.93,Electronics
+1598,Keurig Coffee Maker,2024-08-20,Pending,"South Stephanie, VA",92,335.72,Home Appliances
+1599,Roomba Robot Vacuum,2024-08-21,Shipped,"Danielbury, PW",29,215.47,Home Appliances
+1600,Sofa Set,2024-08-22,Delivered,"Tateton, WA",79,353.54,Furniture
+1601,Amazon Echo,2024-08-23,Pending,"Holderton, IA",35,211.26,Electronics
+1602,Board Game,2024-08-24,Pending,"Serranoburgh, MN",6,257.27,Toys & Games
+1603,Skincare Cream,2024-08-25,Cancelled,"Lake Amberview, NV",12,13.6,Health & Beauty
+1604,Roomba Robot Vacuum,2024-08-26,Shipped,"Ryantown, FM",38,348.94,Home Appliances
+1605,Amazon Echo,2024-08-27,Cancelled,"North Bradleystad, KS",77,334.06,Electronics
+1606,Nikon D3500,2024-08-28,Pending,"Crystaltown, WV",93,28.82,Electronics
+1607,Sony PlayStation 5,2024-08-29,Pending,"Lewisport, ID",19,190.44,Electronics
+1608,Skincare Cream,2024-08-30,Pending,"Samanthaton, KS",67,489.73,Health & Beauty
+1609,Roomba Robot Vacuum,2024-08-31,Cancelled,"Brownborough, AR",8,216.16,Home Appliances
+1610,MacBook Pro,2024-09-01,Shipped,"Douglasland, PW",8,255.95,Electronics
+1611,Amazon Echo,2024-09-02,Delivered,"North Brittanyfurt, NV",84,455.87,Electronics
+1612,Skincare Cream,2024-09-03,Cancelled,"Huffmanport, AL",47,361.46,Health & Beauty
+1613,Roomba Robot Vacuum,2024-09-04,Pending,"Johnstonmouth, WV",4,295.21,Home Appliances
+1614,Amazon Echo,2024-09-05,Cancelled,"Hornville, AL",51,400.92,Electronics
+1615,Sofa Set,2024-09-06,Pending,"Jeanettemouth, NC",85,433.54,Furniture
+1616,iPhone 13,2024-09-07,Delivered,"Douglasstad, GA",67,233.88,Electronics
+1617,Roomba Robot Vacuum,2024-09-08,Delivered,"Coreymouth, SC",45,242.8,Home Appliances
+1618,Roomba Robot Vacuum,2024-09-09,Shipped,"Floreschester, CA",8,199.16,Home Appliances
+1619,Fitbit Charge,2024-09-10,Pending,"South Kathleen, VI",87,483.69,Electronics
+1620,Fresh Fruits,2024-09-11,Shipped,"Griffintown, WI",16,351.61,Groceries
+1621,Fiction Book,2024-09-12,Shipped,"Catherineport, OR",77,50.78,Books
+1622,MacBook Pro,2024-09-13,Delivered,"Justinshire, WA",67,432.85,Electronics
+1623,Instant Pot,2024-09-14,Cancelled,"South Pamelafort, RI",9,245.47,Home Appliances
+1624,Sofa Set,2024-09-15,Cancelled,"South Carlaside, ME",60,43.69,Furniture
+1625,Fitbit Charge,2024-09-16,Shipped,"New Lisaton, FM",78,279.36,Electronics
+1626,Skincare Cream,2024-09-17,Delivered,"Browntown, PA",77,214.41,Health & Beauty
+1627,Car Floor Mats,2024-09-18,Pending,"Port Jacqueline, MP",71,440.1,Automotive
+1628,Keurig Coffee Maker,2024-09-19,Cancelled,"New Rebeccaton, ME",15,109.96,Home Appliances
+1629,Fresh Fruits,2024-09-20,Shipped,"Port Samuel, MS",71,414.97,Groceries
+1630,Men's T-shirt,2024-09-21,Cancelled,"New Christineburgh, AS",98,283.27,Clothing & Accessories
+1631,Car Floor Mats,2024-09-22,Cancelled,"Michaelfort, NH",41,36.76,Automotive
+1632,Bose Headphones,2024-09-23,Pending,"Lake Angelamouth, MO",22,486.2,Electronics
+1633,Board Game,2024-09-24,Delivered,"Daltonberg, AK",24,261.18,Toys & Games
+1634,Board Game,2024-09-25,Pending,"Port Sophia, OK",44,152.53,Toys & Games
+1635,iPhone 13,2024-09-26,Delivered,"Gonzalezburgh, PW",1,240.01,Electronics
+1636,Fresh Fruits,2024-09-27,Cancelled,"New Rose, AR",10,430.35,Groceries
+1637,Men's T-shirt,2024-09-28,Shipped,"West Matthew, UT",80,159.4,Clothing & Accessories
+1638,Keurig Coffee Maker,2024-09-29,Pending,"Robersonmouth, UT",72,104.41,Home Appliances
+1639,Bose Headphones,2024-09-30,Delivered,"North Arthur, FL",56,73.24,Electronics
+1640,Nintendo Switch,2024-10-01,Cancelled,"Ponceview, MT",89,155.95,Electronics
+1641,GoPro Hero 9,2024-10-02,Delivered,"Kimberlyberg, MO",50,392.22,Electronics
+1642,Nintendo Switch,2024-10-03,Delivered,"East Katherine, IN",12,241.1,Electronics
+1643,Men's T-shirt,2024-10-04,Delivered,"South Andrea, MD",89,121.47,Clothing & Accessories
+1644,Bose Headphones,2024-10-05,Cancelled,"Turnermouth, DC",81,91.43,Electronics
+1645,Amazon Echo,2024-10-06,Shipped,"Michaelmouth, ND",60,173.04,Electronics
+1646,Dyson Vacuum,2024-10-07,Shipped,"Aaronborough, WI",26,470.56,Home Appliances
+1647,Nintendo Switch,2024-10-08,Shipped,"Brentland, IA",78,178.08,Electronics
+1648,Nintendo Switch,2024-10-09,Delivered,"Port Jorgebury, MT",41,494.18,Electronics
+1649,Samsung Galaxy S21,2024-10-10,Cancelled,"Ewingview, FL",36,247.76,Electronics
+1650,Bose Headphones,2024-10-11,Delivered,"Lunachester, OH",23,97.79,Electronics
+1651,Nikon D3500,2024-10-12,Shipped,"Whiteheadmouth, SC",43,446.66,Electronics
+1652,Instant Pot,2024-10-13,Shipped,"Gonzalesside, AR",6,235.57,Home Appliances
+1653,MacBook Pro,2024-10-14,Cancelled,"Hodgesberg, ND",69,357.74,Electronics
+1654,Fitbit Charge,2024-10-15,Delivered,"Davidburgh, TN",43,492.02,Electronics
+1655,Sofa Set,2024-10-16,Pending,"Lake Jenniferfurt, TN",25,34.59,Furniture
+1656,Dyson Vacuum,2024-10-17,Pending,"Onealmouth, KY",18,57.38,Home Appliances
+1657,Fresh Fruits,2024-10-18,Shipped,"Kevinberg, NM",62,363.02,Groceries
+1658,Google Nest,2024-10-19,Cancelled,"East Jerryside, ND",13,148.09,Electronics
+1659,Apple Watch,2024-10-20,Delivered,"West Tracymouth, WV",43,100.31,Electronics
+1660,Nintendo Switch,2024-10-21,Delivered,"Carlfurt, GU",78,29.29,Electronics
+1661,Keurig Coffee Maker,2024-10-22,Shipped,"North John, TX",28,20.7,Home Appliances
+1662,Samsung Galaxy S21,2024-10-23,Shipped,"Terryfort, CO",18,389.5,Electronics
+1663,Google Nest,2024-10-24,Delivered,"South Dianaland, NY",59,75.87,Electronics
+1664,Men's T-shirt,2024-10-25,Delivered,"Davidmouth, MO",60,239.18,Clothing & Accessories
+1665,Xbox Series X,2024-10-26,Shipped,"South Tommymouth, VA",63,306.89,Electronics
+1666,GoPro Hero 9,2024-10-27,Delivered,"Port Jessicahaven, PW",57,219.89,Electronics
+1667,Instant Pot,2024-10-28,Pending,"South Janet, OH",92,23.28,Home Appliances
+1668,Fresh Fruits,2024-10-29,Shipped,"New Clifford, UT",51,393.92,Groceries
+1669,Google Nest,2024-10-30,Delivered,"New Marilynview, VT",56,15.15,Electronics
+1670,Dell XPS 13,2024-10-31,Shipped,"Lake Markshire, PR",27,383.33,Electronics
+1671,Instant Pot,2024-11-01,Cancelled,"South Alicialand, IN",32,447.72,Home Appliances
+1672,Car Floor Mats,2024-11-02,Shipped,"Port Ashleystad, NE",9,222.09,Automotive
+1673,Oculus Quest 2,2024-11-03,Shipped,"Andrewland, PR",96,272.42,Electronics
+1674,Fresh Fruits,2024-11-04,Cancelled,"New Ruben, SC",84,243.72,Groceries
+1675,Roomba Robot Vacuum,2024-11-05,Pending,"Connieborough, FM",92,200.71,Home Appliances
+1676,Nikon D3500,2024-11-06,Delivered,"Pettymouth, NY",97,444.84,Electronics
+1677,Apple Watch,2024-11-07,Cancelled,"New Sandrastad, OK",68,448.03,Electronics
+1678,Samsung Galaxy S21,2024-11-08,Shipped,"Changport, CT",46,174.55,Electronics
+1679,Nikon D3500,2024-11-09,Delivered,"West Katherineberg, MD",98,311.38,Electronics
+1680,Nikon D3500,2024-11-10,Cancelled,"South Hannah, DC",67,464.18,Electronics
+1681,Men's T-shirt,2024-11-11,Delivered,"North Jacobhaven, AS",26,481.41,Clothing & Accessories
+1682,Instant Pot,2024-11-12,Delivered,"Nelsonberg, MA",8,259.39,Home Appliances
+1683,Oculus Quest 2,2024-11-13,Cancelled,"Melanieberg, MO",6,231.88,Electronics
+1684,Fiction Book,2024-11-14,Delivered,"Petersmouth, OH",80,146.56,Books
+1685,Kindle Paperwhite,2024-11-15,Pending,"West Johnmouth, KS",24,479.85,Electronics
+1686,MacBook Pro,2024-11-16,Cancelled,"Laurenhaven, AS",48,79.98,Electronics
+1687,Nintendo Switch,2024-11-17,Pending,"Port Ryan, NC",94,294.12,Electronics
+1688,MacBook Pro,2024-11-18,Shipped,"West Natasha, LA",45,148.45,Electronics
+1689,Men's T-shirt,2024-11-19,Delivered,"Martinborough, MT",13,146.71,Clothing & Accessories
+1690,Dyson Vacuum,2024-11-20,Shipped,"South Michael, OH",69,208.43,Home Appliances
+1691,Google Nest,2024-11-21,Shipped,"Millerburgh, OR",25,499.41,Electronics
+1692,Fiction Book,2024-11-22,Delivered,"Downsfurt, UT",20,36.93,Books
+1693,Running Shoes,2024-11-23,Cancelled,"Lake Jessicamouth, HI",82,293.49,Sports & Outdoors
+1694,Dell XPS 13,2024-11-24,Delivered,"Bennettland, SC",82,50.46,Electronics
+1695,Fiction Book,2024-11-25,Shipped,"New Jeffreyville, AL",66,85.72,Books
+1696,Car Floor Mats,2024-11-26,Shipped,"Mcclainside, WA",74,225.39,Automotive
+1697,Oculus Quest 2,2024-11-27,Cancelled,"Port Michaelburgh, VT",45,260.13,Electronics
+1698,Fitbit Charge,2024-11-28,Delivered,"Port Jasonstad, SD",47,136.81,Electronics
+1699,Skincare Cream,2024-11-29,Shipped,"New Katherine, MD",63,165.06,Health & Beauty
+1700,Fitbit Charge,2024-11-30,Pending,"Fosterside, VT",76,52.61,Electronics
+1701,Fiction Book,2024-12-01,Shipped,"New Holly, SD",77,158.58,Books
+1702,Fitbit Charge,2024-12-02,Shipped,"Michaelberg, WI",55,483.61,Electronics
+1703,Samsung Galaxy S21,2024-12-03,Cancelled,"Novakport, NM",75,472.91,Electronics
+1704,Roomba Robot Vacuum,2024-12-04,Pending,"Sullivanburgh, AR",19,174.09,Home Appliances
+1705,Bose Headphones,2024-12-05,Shipped,"Martinville, CT",35,289.72,Electronics
+1706,Car Floor Mats,2024-12-06,Shipped,"Yorkborough, AL",53,455.7,Automotive
+1707,Car Floor Mats,2024-12-07,Pending,"North Kimberly, MH",26,13.03,Automotive
+1708,Samsung Galaxy S21,2024-12-08,Delivered,"Johnshire, RI",14,407.23,Electronics
+1709,Board Game,2024-12-09,Delivered,"Port Jonathan, VA",45,474.7,Toys & Games
+1710,Instant Pot,2024-12-10,Shipped,"Monicamouth, WY",44,54.75,Home Appliances
+1711,Keurig Coffee Maker,2024-12-11,Shipped,"Moranfurt, OK",88,89.11,Home Appliances
+1712,Fresh Fruits,2024-12-12,Delivered,"South Andreaville, PA",65,480.77,Groceries
+1713,Dell XPS 13,2024-12-13,Cancelled,"East David, CT",51,273.39,Electronics
+1714,Google Nest,2024-12-14,Pending,"Mcdonaldport, NJ",43,16.96,Electronics
+1715,Bose Headphones,2024-12-15,Pending,"Sherrihaven, AR",86,136.24,Electronics
+1716,Skincare Cream,2024-12-16,Cancelled,"Abigailview, AS",23,230.47,Health & Beauty
+1717,Skincare Cream,2024-12-17,Cancelled,"Emilyburgh, WI",56,349.53,Health & Beauty
+1718,Sony PlayStation 5,2024-12-18,Cancelled,"South Johnberg, CA",19,369.25,Electronics
+1719,Keurig Coffee Maker,2024-12-19,Cancelled,"West Curtistown, GA",82,497.76,Home Appliances
+1720,Nikon D3500,2024-12-20,Cancelled,"New Jeremyville, TN",76,150.88,Electronics
+1721,Amazon Echo,2024-12-21,Cancelled,"North James, PW",55,273.73,Electronics
+1722,Skincare Cream,2024-12-22,Pending,"Frederickstad, NM",92,271.33,Health & Beauty
+1723,Oculus Quest 2,2024-12-23,Cancelled,"South Davidbury, WY",92,208.77,Electronics
+1724,Roomba Robot Vacuum,2024-12-24,Delivered,"Petersenburgh, UT",60,92.89,Home Appliances
+1725,MacBook Pro,2024-12-25,Cancelled,"East Jessica, WY",59,488.95,Electronics
+1726,Sony PlayStation 5,2024-12-26,Cancelled,"Schultzport, VA",33,428.13,Electronics
+1727,Nintendo Switch,2024-12-27,Pending,"Macdonaldhaven, ND",19,254.18,Electronics
+1728,GoPro Hero 9,2024-12-28,Pending,"Debrastad, AL",28,305.59,Electronics
+1729,Fiction Book,2024-12-29,Cancelled,"Michaelbury, IN",52,121.36,Books
+1730,Amazon Echo,2024-12-30,Pending,"East Kristiton, NJ",49,276.46,Electronics
+1731,Car Floor Mats,2024-12-31,Shipped,"Harringtonburgh, NY",37,350.54,Automotive
+1732,Bose Headphones,2025-01-01,Pending,"South Kimberly, ID",26,262.43,Electronics
+1733,Car Floor Mats,2025-01-02,Pending,"Smithfort, VI",99,495.24,Automotive
+1734,Xbox Series X,2025-01-03,Pending,"Bonnieview, CA",98,309.56,Electronics
+1735,Skincare Cream,2025-01-04,Pending,"New Alan, TX",99,191.78,Health & Beauty
+1736,Roomba Robot Vacuum,2025-01-05,Delivered,"Charleschester, PR",40,388.35,Home Appliances
+1737,Keurig Coffee Maker,2025-01-06,Delivered,"North Christianburgh, KY",80,93.53,Home Appliances
+1738,Running Shoes,2025-01-07,Delivered,"Ericaborough, MN",38,198.41,Sports & Outdoors
+1739,MacBook Pro,2025-01-08,Cancelled,"Holtburgh, AR",77,180.01,Electronics
+1740,Sofa Set,2025-01-09,Cancelled,"Petersonfort, WY",87,221.59,Furniture
+1741,Skincare Cream,2025-01-10,Shipped,"Ortegaport, NH",54,393.07,Health & Beauty
+1742,Dell XPS 13,2025-01-11,Delivered,"Lake Beth, MN",22,247.24,Electronics
+1743,Kindle Paperwhite,2025-01-12,Cancelled,"East Emilyview, HI",16,399.07,Electronics
+1744,Sony PlayStation 5,2025-01-13,Pending,"Tracieport, CO",28,292.48,Electronics
+1745,Sofa Set,2025-01-14,Pending,"Englishberg, ID",35,177.61,Furniture
+1746,Men's T-shirt,2025-01-15,Delivered,"Malonetown, MO",60,406.89,Clothing & Accessories
+1747,Kindle Paperwhite,2025-01-16,Shipped,"Davidberg, MN",45,126.76,Electronics
+1748,GoPro Hero 9,2025-01-17,Shipped,"New Laura, AS",46,119.95,Electronics
+1749,Kindle Paperwhite,2025-01-18,Pending,"Rodriguezbury, NV",72,257.21,Electronics
+1750,Nikon D3500,2025-01-19,Shipped,"Erinmouth, NE",55,137.82,Electronics
+1751,Fitbit Charge,2025-01-20,Delivered,"Lake Patricia, ME",86,14.45,Electronics
+1752,Men's T-shirt,2025-01-21,Pending,"Savannahmouth, ID",85,327.67,Clothing & Accessories
+1753,Keurig Coffee Maker,2025-01-22,Cancelled,"Paynehaven, WI",26,260.44,Home Appliances
+1754,Google Nest,2025-01-23,Cancelled,"Jonathanside, AS",85,228.3,Electronics
+1755,Google Nest,2025-01-24,Shipped,"South Laura, LA",25,483.81,Electronics
+1756,Fiction Book,2025-01-25,Pending,"Latashaborough, MH",65,289.89,Books
+1757,Fresh Fruits,2025-01-26,Pending,"North Jonathanfort, WI",6,433.08,Groceries
+1758,Google Nest,2025-01-27,Cancelled,"Hayesmouth, OK",23,78.33,Electronics
+1759,Nikon D3500,2025-01-28,Pending,"Crosbyhaven, MS",64,288.91,Electronics
+1760,Fiction Book,2025-01-29,Pending,"Andrewland, CT",87,435.31,Books
+1761,Samsung Galaxy S21,2025-01-30,Pending,"North Brookeshire, WA",43,295.72,Electronics
+1762,GoPro Hero 9,2025-01-31,Shipped,"Davidmouth, OH",23,361.83,Electronics
+1763,Kindle Paperwhite,2025-02-01,Pending,"North Pamelachester, GA",96,192.3,Electronics
+1764,GoPro Hero 9,2025-02-02,Delivered,"Jonestown, OR",30,55.3,Electronics
+1765,Fitbit Charge,2025-02-03,Shipped,"South Carlos, ME",77,234.37,Electronics
+1766,Instant Pot,2025-02-04,Pending,"Danielhaven, LA",18,203.29,Home Appliances
+1767,Keurig Coffee Maker,2025-02-05,Pending,"Gonzalesmouth, HI",87,434.86,Home Appliances
+1768,Roomba Robot Vacuum,2025-02-06,Delivered,"Walkerside, WI",79,129.56,Home Appliances
+1769,Skincare Cream,2025-02-07,Shipped,"Shawstad, OH",97,483.7,Health & Beauty
+1770,Samsung Galaxy S21,2025-02-08,Cancelled,"Craigborough, OK",21,479.49,Electronics
+1771,Apple Watch,2025-02-09,Cancelled,"Lake Sheri, NM",57,131.34,Electronics
+1772,GoPro Hero 9,2025-02-10,Shipped,"West Sherriview, HI",23,180.55,Electronics
+1773,Nintendo Switch,2025-02-11,Pending,"North Stephanie, HI",91,448.82,Electronics
+1774,Skincare Cream,2025-02-12,Pending,"Greenton, NE",45,483.64,Health & Beauty
+1775,Running Shoes,2025-02-13,Cancelled,"Williamside, MN",44,227.29,Sports & Outdoors
+1776,Apple Watch,2025-02-14,Cancelled,"Josephstad, NY",82,167.29,Electronics
+1777,Roomba Robot Vacuum,2025-02-15,Cancelled,"Josephfort, VA",88,267.79,Home Appliances
+1778,Xbox Series X,2025-02-16,Delivered,"Markborough, FM",47,347.01,Electronics
+1779,Fresh Fruits,2025-02-17,Cancelled,"Scottton, PW",40,144.0,Groceries
+1780,Instant Pot,2025-02-18,Delivered,"Whitneyberg, SD",51,370.87,Home Appliances
+1781,MacBook Pro,2025-02-19,Shipped,"New Susanmouth, NC",42,35.31,Electronics
+1782,Xbox Series X,2025-02-20,Pending,"Lake David, AS",7,34.15,Electronics
+1783,MacBook Pro,2025-02-21,Cancelled,"New Scott, PW",50,199.28,Electronics
+1784,iPhone 13,2025-02-22,Pending,"South Keith, GU",48,183.2,Electronics
+1785,Nikon D3500,2025-02-23,Pending,"East Eric, OR",84,164.66,Electronics
+1786,Car Floor Mats,2025-02-24,Cancelled,"Smithberg, AR",91,250.6,Automotive
+1787,Sofa Set,2025-02-25,Cancelled,"Murphyside, VI",6,167.16,Furniture
+1788,Skincare Cream,2025-02-26,Shipped,"East Gregorymouth, MO",91,104.21,Health & Beauty
+1789,Dyson Vacuum,2025-02-27,Delivered,"Port Kimberly, NM",9,161.64,Home Appliances
+1790,Nikon D3500,2025-02-28,Delivered,"New Ashleyville, NH",57,487.7,Electronics
+1791,Fiction Book,2025-03-01,Pending,"Jordanside, VA",31,211.45,Books
+1792,Dell XPS 13,2025-03-02,Cancelled,"North Julieville, MT",21,227.91,Electronics
+1793,Amazon Echo,2025-03-03,Shipped,"Taylorfort, VT",90,292.51,Electronics
+1794,Men's T-shirt,2025-03-04,Shipped,"Christineside, IN",40,491.84,Clothing & Accessories
+1795,Kindle Paperwhite,2025-03-05,Shipped,"Millerport, HI",45,128.38,Electronics
+1796,Amazon Echo,2025-03-06,Shipped,"Port Madison, PR",77,343.83,Electronics
+1797,Sofa Set,2025-03-07,Shipped,"Rebeccahaven, OR",49,360.83,Furniture
+1798,Instant Pot,2025-03-08,Delivered,"Port David, NV",87,307.59,Home Appliances
+1799,Instant Pot,2025-03-09,Delivered,"Nunezburgh, OH",20,53.4,Home Appliances
+1800,Dell XPS 13,2025-03-10,Delivered,"South Diane, LA",92,341.67,Electronics
+1801,Running Shoes,2025-03-11,Cancelled,"Gentryview, AZ",17,41.41,Sports & Outdoors
+1802,Running Shoes,2025-03-12,Pending,"New Victor, GU",28,302.11,Sports & Outdoors
+1803,Xbox Series X,2025-03-13,Shipped,"Thomaschester, AK",41,372.39,Electronics
+1804,Board Game,2025-03-14,Cancelled,"Phillipsbury, PW",66,113.38,Toys & Games
+1805,Oculus Quest 2,2025-03-15,Shipped,"Jacksonton, PA",25,422.39,Electronics
+1806,Skincare Cream,2025-03-16,Delivered,"South Dana, WA",58,24.87,Health & Beauty
+1807,Sony PlayStation 5,2025-03-17,Cancelled,"Kaylabury, AK",41,423.47,Electronics
+1808,Oculus Quest 2,2025-03-18,Delivered,"East Jasontown, MP",6,235.56,Electronics
+1809,GoPro Hero 9,2025-03-19,Shipped,"South Raymond, WA",75,116.62,Electronics
+1810,iPhone 13,2025-03-20,Shipped,"Gordonmouth, TX",38,75.55,Electronics
+1811,Car Floor Mats,2025-03-21,Pending,"Jenniferport, FM",6,477.12,Automotive
+1812,Google Nest,2025-03-22,Shipped,"Lake Johnmouth, MS",45,45.61,Electronics
+1813,iPhone 13,2025-03-23,Delivered,"New Jonathanchester, RI",75,107.56,Electronics
+1814,Sony PlayStation 5,2025-03-24,Shipped,"West Samanthaville, IN",14,180.43,Electronics
+1815,Men's T-shirt,2025-03-25,Pending,"Port David, NV",66,313.92,Clothing & Accessories
+1816,Xbox Series X,2025-03-26,Pending,"Lake Isabella, ID",40,276.95,Electronics
+1817,Sofa Set,2025-03-27,Delivered,"Donnastad, DC",3,71.57,Furniture
+1818,MacBook Pro,2025-03-28,Cancelled,"East Hannahshire, AK",99,151.97,Electronics
+1819,Instant Pot,2025-03-29,Shipped,"Lake Derekshire, AK",97,126.99,Home Appliances
+1820,Sony PlayStation 5,2025-03-30,Pending,"South Jennifer, AL",24,114.64,Electronics
+1821,Car Floor Mats,2025-03-31,Shipped,"North Williamport, ND",19,211.46,Automotive
+1822,Board Game,2025-04-01,Shipped,"Lake Melanie, AR",18,354.98,Toys & Games
+1823,Dyson Vacuum,2025-04-02,Cancelled,"Julieside, GA",64,116.55,Home Appliances
+1824,Apple Watch,2025-04-03,Pending,"East Bradley, OR",88,189.67,Electronics
+1825,Keurig Coffee Maker,2025-04-04,Shipped,"North Davidmouth, NC",35,201.55,Home Appliances
+1826,Xbox Series X,2025-04-05,Pending,"Stevenschester, WV",62,488.46,Electronics
+1827,Fresh Fruits,2025-04-06,Delivered,"Carlosview, NM",1,477.79,Groceries
+1828,Board Game,2025-04-07,Delivered,"Joshuaville, UT",25,402.07,Toys & Games
+1829,Dyson Vacuum,2025-04-08,Shipped,"Hayesburgh, WA",45,128.41,Home Appliances
+1830,Fiction Book,2025-04-09,Pending,"Travisville, KS",49,43.34,Books
+1831,Board Game,2025-04-10,Shipped,"Catherineview, GU",98,165.28,Toys & Games
+1832,Google Nest,2025-04-11,Pending,"Lisaburgh, VA",89,140.73,Electronics
+1833,Amazon Echo,2025-04-12,Pending,"Hernandezstad, ND",16,257.9,Electronics
+1834,Google Nest,2025-04-13,Cancelled,"Lake Sean, ID",98,391.09,Electronics
+1835,Nikon D3500,2025-04-14,Cancelled,"Masonmouth, PR",93,430.58,Electronics
+1836,Xbox Series X,2025-04-15,Cancelled,"Port Catherine, WV",19,423.98,Electronics
+1837,Apple Watch,2025-04-16,Shipped,"Lake David, OK",23,186.24,Electronics
+1838,Samsung Galaxy S21,2025-04-17,Cancelled,"Sierrastad, RI",83,346.74,Electronics
+1839,Google Nest,2025-04-18,Cancelled,"Lake Isabellaborough, LA",25,163.29,Electronics
+1840,Fitbit Charge,2025-04-19,Delivered,"Gibsontown, WV",16,39.84,Electronics
+1841,iPhone 13,2025-04-20,Pending,"Calderonton, NV",54,353.77,Electronics
+1842,Men's T-shirt,2025-04-21,Pending,"Wolfstad, TN",73,14.82,Clothing & Accessories
+1843,Xbox Series X,2025-04-22,Cancelled,"New Chelsea, NV",1,210.5,Electronics
+1844,Keurig Coffee Maker,2025-04-23,Pending,"Jameschester, OR",42,171.4,Home Appliances
+1845,Fiction Book,2025-04-24,Delivered,"New Travis, MT",19,349.75,Books
+1846,Oculus Quest 2,2025-04-25,Delivered,"East Rodneyberg, GA",97,385.46,Electronics
+1847,GoPro Hero 9,2025-04-26,Cancelled,"Karenmouth, UT",34,159.01,Electronics
+1848,Fitbit Charge,2025-04-27,Delivered,"Meadowsside, VI",80,407.7,Electronics
+1849,Fiction Book,2025-04-28,Pending,"North Michaelton, AK",55,154.02,Books
+1850,Kindle Paperwhite,2025-04-29,Shipped,"North Catherine, ME",18,228.7,Electronics
+1851,MacBook Pro,2025-04-30,Pending,"Mckenzieshire, IN",34,366.24,Electronics
+1852,Nikon D3500,2025-05-01,Shipped,"Kennethtown, MN",89,349.53,Electronics
+1853,Fiction Book,2025-05-02,Cancelled,"New Johnfurt, CT",45,493.81,Books
+1854,MacBook Pro,2025-05-03,Shipped,"South Brandon, MS",6,120.33,Electronics
+1855,Instant Pot,2025-05-04,Delivered,"Lauriefort, MP",21,334.54,Home Appliances
+1856,Keurig Coffee Maker,2025-05-05,Pending,"Lake Joshua, AR",70,308.74,Home Appliances
+1857,Nikon D3500,2025-05-06,Shipped,"Heidifurt, PW",96,458.4,Electronics
+1858,Roomba Robot Vacuum,2025-05-07,Pending,"New Jennifer, WY",48,86.62,Home Appliances
+1859,MacBook Pro,2025-05-08,Cancelled,"Flemingville, MA",39,378.38,Electronics
+1860,Oculus Quest 2,2025-05-09,Cancelled,"Jessicaview, RI",31,288.45,Electronics
+1861,Fitbit Charge,2025-05-10,Delivered,"Port Nancybury, WA",10,144.59,Electronics
+1862,Fiction Book,2025-05-11,Cancelled,"East Brandiside, AK",30,242.47,Books
+1863,Sofa Set,2025-05-12,Shipped,"Michaelfort, PA",18,173.55,Furniture
+1864,Nintendo Switch,2025-05-13,Cancelled,"Finleyshire, ND",60,293.86,Electronics
+1865,Men's T-shirt,2025-05-14,Delivered,"New Donna, NY",88,445.61,Clothing & Accessories
+1866,Fitbit Charge,2025-05-15,Pending,"Shawnhaven, RI",73,288.96,Electronics
+1867,Car Floor Mats,2025-05-16,Pending,"New Danielshire, UT",95,319.54,Automotive
+1868,Keurig Coffee Maker,2025-05-17,Cancelled,"West Donna, NJ",15,264.19,Home Appliances
+1869,Sofa Set,2025-05-18,Shipped,"Port Matthewtown, ND",4,35.07,Furniture
+1870,MacBook Pro,2025-05-19,Delivered,"Lake Anthonyville, NH",63,124.1,Electronics
+1871,Men's T-shirt,2025-05-20,Shipped,"Gonzalezfurt, TX",40,251.08,Clothing & Accessories
+1872,Xbox Series X,2025-05-21,Delivered,"Johnsonview, MA",9,162.02,Electronics
+1873,Dyson Vacuum,2025-05-22,Cancelled,"East Christinafort, WI",9,99.06,Home Appliances
+1874,Board Game,2025-05-23,Delivered,"Jasonborough, NV",26,257.03,Toys & Games
+1875,Apple Watch,2025-05-24,Delivered,"Michaelfort, MD",4,168.18,Electronics
+1876,Roomba Robot Vacuum,2025-05-25,Cancelled,"Port Georgemouth, SC",81,136.47,Home Appliances
+1877,Dell XPS 13,2025-05-26,Shipped,"Port Stevenborough, MD",16,237.35,Electronics
+1878,Running Shoes,2025-05-27,Cancelled,"West Pamelatown, AS",15,75.31,Sports & Outdoors
+1879,Instant Pot,2025-05-28,Delivered,"North Richard, KS",99,464.6,Home Appliances
+1880,Fitbit Charge,2025-05-29,Cancelled,"Velasquezside, DE",52,435.17,Electronics
+1881,Skincare Cream,2025-05-30,Delivered,"Cynthiachester, CA",69,356.73,Health & Beauty
+1882,MacBook Pro,2025-05-31,Cancelled,"New Kristin, OR",5,62.04,Electronics
+1883,MacBook Pro,2025-06-01,Pending,"Charlestown, AR",20,390.18,Electronics
+1884,Keurig Coffee Maker,2025-06-02,Pending,"Kennethview, UT",79,405.9,Home Appliances
+1885,Sony PlayStation 5,2025-06-03,Cancelled,"East Jeffery, OR",18,386.2,Electronics
+1886,Sofa Set,2025-06-04,Shipped,"North Robert, NC",2,65.84,Furniture
+1887,Kindle Paperwhite,2025-06-05,Delivered,"New Kimberly, NH",93,325.51,Electronics
+1888,Nintendo Switch,2025-06-06,Pending,"East Donaldton, MT",13,418.82,Electronics
+1889,Fresh Fruits,2025-06-07,Shipped,"Ashleyville, LA",4,292.9,Groceries
+1890,Dell XPS 13,2025-06-08,Delivered,"Christopherstad, AK",42,326.74,Electronics
+1891,Nintendo Switch,2025-06-09,Pending,"West Amyton, MH",74,234.6,Electronics
+1892,Fitbit Charge,2025-06-10,Pending,"Davisville, WV",61,269.07,Electronics
+1893,Samsung Galaxy S21,2025-06-11,Cancelled,"South Ronaldport, AS",95,26.84,Electronics
+1894,Kindle Paperwhite,2025-06-12,Delivered,"Lake Teresachester, MA",8,323.09,Electronics
+1895,Fitbit Charge,2025-06-13,Shipped,"Port Courtneyland, TX",67,49.91,Electronics
+1896,Fresh Fruits,2025-06-14,Shipped,"South Nicole, WY",63,223.16,Groceries
+1897,Oculus Quest 2,2025-06-15,Shipped,"Lake Robertfort, OK",9,153.4,Electronics
+1898,Keurig Coffee Maker,2025-06-16,Delivered,"East Matthewview, NC",94,277.26,Home Appliances
+1899,Nintendo Switch,2025-06-17,Shipped,"Codystad, PW",11,75.37,Electronics
+1900,Running Shoes,2025-06-18,Shipped,"Riveraburgh, DC",99,348.91,Sports & Outdoors
+1901,Board Game,2025-06-19,Shipped,"Juliebury, TN",42,399.56,Toys & Games
+1902,Fitbit Charge,2025-06-20,Cancelled,"South Kaitlyn, VT",13,90.04,Electronics
+1903,Dyson Vacuum,2025-06-21,Cancelled,"Nelsonfort, NJ",36,61.11,Home Appliances
+1904,Samsung Galaxy S21,2025-06-22,Delivered,"Cooperburgh, LA",13,81.3,Electronics
+1905,Running Shoes,2025-06-23,Delivered,"Leetown, OR",12,439.79,Sports & Outdoors
+1906,Car Floor Mats,2025-06-24,Shipped,"South Kaitlyn, IA",37,268.81,Automotive
+1907,Sony PlayStation 5,2025-06-25,Cancelled,"East Donaldburgh, CO",74,238.96,Electronics
+1908,Fiction Book,2025-06-26,Pending,"Hunthaven, VT",73,62.29,Books
+1909,Sony PlayStation 5,2025-06-27,Pending,"South Anitachester, NY",52,328.28,Electronics
+1910,Nintendo Switch,2025-06-28,Shipped,"Patrickbury, TX",71,435.32,Electronics
+1911,Sofa Set,2025-06-29,Shipped,"Smithborough, MI",2,415.81,Furniture
+1912,GoPro Hero 9,2025-06-30,Cancelled,"West Jamie, CT",56,316.77,Electronics
+1913,Apple Watch,2025-07-01,Cancelled,"Joshuaton, FL",60,46.89,Electronics
+1914,Dell XPS 13,2025-07-02,Cancelled,"East Stephanie, VT",23,65.07,Electronics
+1915,Men's T-shirt,2025-07-03,Delivered,"Lewismouth, MA",40,34.16,Clothing & Accessories
+1916,Roomba Robot Vacuum,2025-07-04,Delivered,"New Phillip, PA",64,136.16,Home Appliances
+1917,Kindle Paperwhite,2025-07-05,Shipped,"Williamsfurt, WI",85,76.47,Electronics
+1918,Oculus Quest 2,2025-07-06,Delivered,"Port Zachary, NJ",23,137.42,Electronics
+1919,Xbox Series X,2025-07-07,Cancelled,"North Julie, KY",29,198.68,Electronics
+1920,Fresh Fruits,2025-07-08,Cancelled,"East Kyle, OK",78,472.06,Groceries
+1921,Dyson Vacuum,2025-07-09,Delivered,"South Amyhaven, AK",90,309.08,Home Appliances
+1922,Fitbit Charge,2025-07-10,Pending,"Courtneyhaven, NV",51,419.14,Electronics
+1923,Fitbit Charge,2025-07-11,Shipped,"Heatherstad, IA",69,358.07,Electronics
+1924,Apple Watch,2025-07-12,Pending,"Briannachester, MP",95,65.13,Electronics
+1925,Fiction Book,2025-07-13,Shipped,"Johnstad, HI",89,370.6,Books
+1926,Running Shoes,2025-07-14,Pending,"Lake Robertchester, MD",31,144.8,Sports & Outdoors
+1927,Men's T-shirt,2025-07-15,Delivered,"East Kevin, NM",50,323.16,Clothing & Accessories
+1928,Apple Watch,2025-07-16,Shipped,"South Richard, VI",20,177.07,Electronics
+1929,Board Game,2025-07-17,Shipped,"Gonzalezbury, WA",55,498.86,Toys & Games
+1930,Running Shoes,2025-07-18,Shipped,"Williamtown, IA",81,139.14,Sports & Outdoors
+1931,Fitbit Charge,2025-07-19,Cancelled,"Dominguezborough, ME",2,146.77,Electronics
+1932,Sofa Set,2025-07-20,Cancelled,"Trevinoport, MH",25,466.03,Furniture
+1933,GoPro Hero 9,2025-07-21,Pending,"Port Michael, ND",13,22.08,Electronics
+1934,Sony PlayStation 5,2025-07-22,Delivered,"Port Markview, FM",92,351.38,Electronics
+1935,Running Shoes,2025-07-23,Cancelled,"Toddview, AZ",70,365.41,Sports & Outdoors
+1936,Bose Headphones,2025-07-24,Shipped,"Christopherbury, VA",67,419.83,Electronics
+1937,Fiction Book,2025-07-25,Cancelled,"Leslieburgh, CO",58,487.48,Books
+1938,Fresh Fruits,2025-07-26,Delivered,"Robinmouth, RI",99,488.04,Groceries
+1939,Bose Headphones,2025-07-27,Cancelled,"West Nicoleborough, DE",82,41.99,Electronics
+1940,Men's T-shirt,2025-07-28,Shipped,"West Cesar, PR",75,412.7,Clothing & Accessories
+1941,Kindle Paperwhite,2025-07-29,Pending,"Thompsonport, PA",84,326.69,Electronics
+1942,Men's T-shirt,2025-07-30,Shipped,"Tonyaside, PW",64,327.2,Clothing & Accessories
+1943,Nintendo Switch,2025-07-31,Delivered,"South Michele, OK",69,72.89,Electronics
+1944,iPhone 13,2025-08-01,Pending,"Martinezview, DE",83,328.59,Electronics
+1945,Amazon Echo,2025-08-02,Cancelled,"Port Deniseburgh, WY",86,491.42,Electronics
+1946,Dell XPS 13,2025-08-03,Cancelled,"Meganfurt, KS",59,456.79,Electronics
+1947,iPhone 13,2025-08-04,Cancelled,"Johnbury, AK",60,225.17,Electronics
+1948,Instant Pot,2025-08-05,Pending,"Lake Stephen, UT",83,29.57,Home Appliances
+1949,Google Nest,2025-08-06,Shipped,"Nealborough, AR",62,187.52,Electronics
+1950,GoPro Hero 9,2025-08-07,Pending,"Lake Terrenceland, UT",16,414.93,Electronics
+1951,Men's T-shirt,2025-08-08,Pending,"New Anthony, WY",88,353.73,Clothing & Accessories
+1952,Men's T-shirt,2025-08-09,Delivered,"New Sarahborough, TN",68,235.08,Clothing & Accessories
+1953,Apple Watch,2025-08-10,Pending,"Lake Sarah, KY",15,37.0,Electronics
+1954,Instant Pot,2025-08-11,Cancelled,"Jennatown, CO",89,219.18,Home Appliances
+1955,Roomba Robot Vacuum,2025-08-12,Shipped,"Russellberg, AL",55,239.82,Home Appliances
+1956,Dyson Vacuum,2025-08-13,Shipped,"Martinezbury, MS",35,464.99,Home Appliances
+1957,Dyson Vacuum,2025-08-14,Shipped,"Bryanport, FM",55,324.13,Home Appliances
+1958,Apple Watch,2025-08-15,Cancelled,"West Trevor, NH",14,162.71,Electronics
+1959,Oculus Quest 2,2025-08-16,Cancelled,"North Jeffreymouth, MT",49,267.41,Electronics
+1960,Apple Watch,2025-08-17,Cancelled,"Scottchester, IN",83,42.37,Electronics
+1961,Keurig Coffee Maker,2025-08-18,Cancelled,"New Lawrenceview, NY",7,486.56,Home Appliances
+1962,iPhone 13,2025-08-19,Cancelled,"Erikhaven, VT",30,186.43,Electronics
+1963,Running Shoes,2025-08-20,Pending,"Port Kathy, ID",83,244.16,Sports & Outdoors
+1964,Fiction Book,2025-08-21,Cancelled,"Angelamouth, SC",49,184.09,Books
+1965,Fitbit Charge,2025-08-22,Cancelled,"West Jamesbury, VI",89,344.43,Electronics
+1966,Instant Pot,2025-08-23,Cancelled,"Shepherdville, FL",16,334.49,Home Appliances
+1967,GoPro Hero 9,2025-08-24,Cancelled,"Woodardmouth, NM",51,360.51,Electronics
+1968,Google Nest,2025-08-25,Shipped,"Davidland, KY",72,141.39,Electronics
+1969,Men's T-shirt,2025-08-26,Cancelled,"Donaldmouth, OK",82,164.68,Clothing & Accessories
+1970,Oculus Quest 2,2025-08-27,Pending,"East Robertchester, GA",92,71.37,Electronics
+1971,Xbox Series X,2025-08-28,Pending,"Knightburgh, UT",80,331.2,Electronics
+1972,MacBook Pro,2025-08-29,Pending,"Lake David, AR",83,29.5,Electronics
+1973,Car Floor Mats,2025-08-30,Delivered,"West Joshua, MO",42,302.86,Automotive
+1974,Board Game,2025-08-31,Shipped,"West Karenstad, ID",17,436.15,Toys & Games
+1975,Skincare Cream,2025-09-01,Cancelled,"Mendozahaven, VT",63,446.51,Health & Beauty
+1976,Nikon D3500,2025-09-02,Delivered,"New Miguelfurt, PA",45,230.03,Electronics
+1977,Nikon D3500,2025-09-03,Cancelled,"East Alexis, MA",77,235.06,Electronics
+1978,Samsung Galaxy S21,2025-09-04,Delivered,"Ashleyfort, IN",7,47.71,Electronics
+1979,Sony PlayStation 5,2025-09-05,Delivered,"West Justin, PW",27,338.67,Electronics
+1980,Roomba Robot Vacuum,2025-09-06,Pending,"Calebstad, VT",10,412.42,Home Appliances
+1981,Xbox Series X,2025-09-07,Pending,"Donnaville, VI",34,129.88,Electronics
+1982,Samsung Galaxy S21,2025-09-08,Delivered,"New Paulton, OK",36,216.44,Electronics
+1983,Dell XPS 13,2025-09-09,Pending,"East Lori, MT",25,421.03,Electronics
+1984,Men's T-shirt,2025-09-10,Delivered,"New Haroldstad, MP",6,439.79,Clothing & Accessories
+1985,Skincare Cream,2025-09-11,Shipped,"South Ryan, SC",24,129.16,Health & Beauty
+1986,Fitbit Charge,2025-09-12,Pending,"Port Scott, VA",18,279.78,Electronics
+1987,Google Nest,2025-09-13,Pending,"Flowersville, GU",87,104.32,Electronics
+1988,GoPro Hero 9,2025-09-14,Pending,"Perezbury, MA",6,59.92,Electronics
+1989,Google Nest,2025-09-15,Shipped,"West Robertville, FL",29,456.45,Electronics
+1990,Fitbit Charge,2025-09-16,Delivered,"East Aprilborough, PA",25,412.05,Electronics
+1991,Men's T-shirt,2025-09-17,Cancelled,"Brianport, MT",55,382.42,Clothing & Accessories
+1992,Oculus Quest 2,2025-09-18,Pending,"Lake Nina, MD",81,33.9,Electronics
+1993,Google Nest,2025-09-19,Delivered,"Michealmouth, NY",46,423.43,Electronics
+1994,Google Nest,2025-09-20,Shipped,"Loriburgh, VT",24,224.64,Electronics
+1995,Skincare Cream,2025-09-21,Cancelled,"Garyview, GU",75,177.77,Health & Beauty
+1996,Roomba Robot Vacuum,2025-09-22,Pending,"Wilsonberg, UT",26,277.77,Home Appliances
+1997,Oculus Quest 2,2025-09-23,Shipped,"Mcdonaldburgh, WV",98,54.76,Electronics
+1998,Oculus Quest 2,2025-09-24,Shipped,"Port Eddie, OH",28,380.76,Electronics
+1999,Running Shoes,2025-09-25,Cancelled,"West Jessicafort, MT",3,295.39,Sports & Outdoors
+2000,Keurig Coffee Maker,2025-09-26,Delivered,"Coopertown, NM",75,101.43,Home Appliances
